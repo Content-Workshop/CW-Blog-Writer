@@ -108,7 +108,7 @@ Give someone prompt monitoring, someone citation review, someone content updates
 
 ## Win the Answer Before the Click
 
-The contest is for inclusion in the answer a buyer trusts before they visit a site or talk to sales. The question worth bringing to every quarterly review: did our brand become more present, more credible, and more likely to shape demand?
+This search war is decided by inclusion in the answer a buyer trusts before they visit a site or talk to sales. The question worth bringing to every quarterly review: did our brand become more present, more credible, and more likely to shape demand?
 
 The data will stay imperfect, and a disciplined AI marketing program says so. What it can do is show, quarter after quarter, whether the answers your buyers read are moving in your favor. If you want to build that discipline into how your team measures and earns answers, [Content Workshop's AI Studio](https://contentworkshop.com/solutions/ai-marketing/) is where the framework becomes a working system.
 <!--BODY-END-->
