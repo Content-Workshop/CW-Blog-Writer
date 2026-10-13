@@ -1,23 +1,23 @@
 # DRAFT NOTES (not part of the published body)
 
-- **Meta title (shortened, 43 chars):** AI Search Visibility: Measure Beyond Clicks
+- **Meta title (43 chars):** AI Search Visibility: Measure Beyond Clicks
 - **Meta description (from brief):** AI marketing teams can't measure answer engines by clicks alone. Build an AI search visibility framework tied to branded demand and pipeline.
 - **URL slug:** /ai-marketing-search-visibility/
 - **Categories:** AI Marketing, Content Marketing
-- **Title alternates:** "Win the Search War: Measure AI Search Visibility Beyond Clicks" / "AI Search Visibility Is the New Search War"
+- **Title alternates:** "AI Search Visibility: Win the Search War Beyond the Click" / "Win the Search War: Measure Visibility Beyond Clicks"
 - **Framework name options (choose one):** "the visibility stack" (descriptive, used in draft) / "the answer layer" / "the beyond-the-click scorecard"
 - **Primary image alt (1860x930):** Dashboard with a flat referral line beside a busy answer layer
 - **Inline images (860x310):** (1) two-layer visibility stack; (2) testing loop: baseline, improve one cluster, hold comparable cluster, compare over several cycles. Brand colors #fbd139, #0e213d, #0066ff.
 - **Verification flags:** Ahrefs/HubSpot pages could not be fetched from this environment (DNS blocked). Stats (94% Forrester, 42% NielsenIQ, 21.7%) rely on the brief's check; re-verify before publish. Forrester/NielsenIQ primary studies not opened per brief.
 
 <!--BODY-START-->
-# AI Search Visibility: Win the Search War Beyond the Click
+# Win the Search War: Measure AI Search Visibility
 
-Your GA4 referral report shows almost nothing from AI tools. Your buyer's shortlist is being shaped inside an LLM answer engine anyway. For anyone running AI marketing, that gap is the new search war, and clicks can't tell you who is winning it.
+Your GA4 referral report shows almost nothing from AI tools. Your buyer's shortlist is being shaped inside an LLM answer engine anyway. For anyone running AI marketing, clicks can't tell you whether that gap is costing you the shortlist.
 
 The adoption data makes the stakes plain. [Ahrefs reports](https://ahrefs.com/blog/ai-search-roi) that 94% of business buyers use AI search, a figure it attributes to Forrester, and that 42% of consumers research products with it, per NielsenIQ. A buyer who forms a view inside an answer and later types your name into a browser leaves no referral behind.
 
-Treating clicks as the whole story is now a strategic error. A durable [AI marketing strategy](https://contentworkshop.com/mastering-ai-marketing-strategies/) needs a way to measure what happens before the click, and the framework below is built for that job.
+Treating clicks as the whole story is now a strategic error. A durable [AI marketing strategy](https://contentworkshop.com/mastering-ai-marketing-strategies/) needs a way to measure what happens before the click.
 
 ## AI Search Visibility Starts Inside the Answer
 
@@ -34,9 +34,9 @@ Cover four question types:
 - Problem-solving
 - Implementation
 
-Specificity is what makes the set useful. A prompt like "best AI marketing platform for a mid-market SaaS company with a small content team" mirrors how a buyer actually asks. Broad prompts tend to return the category's best-known names, while specific ones show whether you hold your ground in the situations you sell into.
+Write prompts the way buyers ask them, with their industry, company size, and constraints included. Broad prompts tend to return the category's best-known names, while specific ones show how you appear in the situations you actually sell into.
 
-Then run the same prompts on a schedule. Answers shift across engines and over time, so a single reading tells you little. [HubSpot's guide to answer engine optimization](https://blog.hubspot.com/marketing/aeo-guide-for-seo) recommends watching tracked prompts over days or weeks before reading a trend. Treat the first month as calibration: you are learning how much answers move on their own before you credit any movement to your work.
+Then run the same prompts on a schedule. Answers shift across engines and over time, so a single reading tells you little. [HubSpot's guide to answer engine optimization (AEO)](https://blog.hubspot.com/marketing/aeo-guide-for-seo) recommends watching tracked prompts over days or weeks before reading a trend. Treat the first month as calibration: you are learning how much answers move on their own before you credit any movement to your work.
 
 ### Record what each answer says about you
 
@@ -56,7 +56,7 @@ An answer can shape consideration without producing a referral session, so the d
 
 ### Keep the core dashboard
 
-Rankings, impressions, organic sessions, branded search, conversions, and assisted revenue still anchor the report. They also hold the referral traffic that does arrive, which you can isolate with [a dedicated AI Search channel in GA4](https://contentworkshop.com/ai-marketing-ga4/). The stack picks up where that channel goes blind. Dropping these metrics in favor of answer data would create a new blind spot, because mentions with no conversion data can't show whether visibility paid off.
+Rankings, impressions, organic sessions, branded search, conversions, and assisted revenue still anchor the report. They also hold the referral traffic that does arrive, which you can isolate with [a dedicated AI Search channel in GA4](https://contentworkshop.com/ai-marketing-ga4/). The stack picks up where that channel goes blind. Dropping these metrics in favor of answer data would open a different gap, because mentions with no conversion data can't show whether visibility paid off.
 
 ### Add the answer layer
 
@@ -64,9 +64,7 @@ Track answer visibility, prompt coverage, share of voice, citation frequency, an
 
 ### Weight the score by buying intent
 
-The visibility score is the percentage of tracked prompts that mention your brand, weighted by strategic importance. Strong presence on low-value questions should not outweigh weak presence on the prompts that define a purchase.
-
-Imagine a software company that appears in 70% of prompts about general category education and in 10% of the prompts where buyers compare vendors. A simple average looks healthy. The weighted score exposes the shortlist problem, and it gives AI search visibility a number a CMO can defend in a pipeline review.
+The visibility score is the percentage of tracked prompts that mention your brand, weighted by strategic importance. Strong presence on low-value questions should not outweigh weak presence on the prompts that define a purchase. Weighting is what turns AI search visibility from a vanity count into a number a CMO can defend in a pipeline review.
 
 Then compare the score against branded-search growth, direct traffic, demo or inquiry volume, and influenced pipeline, and look for relationships that hold over time. Add one more input: ask new customers how they found you, and include AI tools as an answer option. Ahrefs recommends this survey because it captures influence no analytics tag will.
 
@@ -100,9 +98,7 @@ Record tracked prompts, brand mentions, citations, competitor share of voice, br
 
 ### Run controlled updates
 
-Improve one defined prompt cluster, hold a comparable cluster steady, and monitor both for several reporting cycles. When the improved cluster gains answer presence, compare later movement in branded search, direct visits, assisted conversions, sales conversations, and customer-reported discovery. Treat what you find as evidence of influence, not proof of causation.
-
-Say a team rewrites its comparison and implementation pages for one cluster of ten prompts and leaves a similar cluster alone. If the first cluster's mention rate climbs over three cycles, branded search and demo requests for that product line rise with it, and the control cluster stays flat, the case for influence strengthens. Seasonality, a launch, or a press mention could explain part of the lift, which is why the control cluster earns its place. Report AI search visibility to executives with that caveat attached, and the number gains credibility instead of losing it. Because [citation authority compounds](https://contentworkshop.com/2026-marketing-playbooks/), it will rarely show up cleanly in a 90-day attribution report.
+Improve one defined prompt cluster, hold a comparable cluster steady, and monitor both for several reporting cycles. When the improved cluster gains answer presence, compare later movement in branded search, direct visits, assisted conversions, sales conversations, and customer-reported discovery. Treat what you find as evidence of influence, not proof of causation. Because [citation authority compounds](https://contentworkshop.com/2026-marketing-playbooks/), the gains will rarely show up cleanly in a 90-day attribution report, so judge the trend across cycles. Report AI search visibility to executives with that caveat attached.
 
 ### Assign owners
 
@@ -112,7 +108,7 @@ Give someone prompt monitoring, someone citation review, someone content updates
 
 ## Win the Answer Before the Click
 
-The contest is for inclusion in the answer a buyer trusts before they visit a site or talk to sales. The question worth bringing to every quarterly review is a sharper one than "how many clicks did we get": did our brand become more present, more credible, and more likely to shape demand?
+The contest is for inclusion in the answer a buyer trusts before they visit a site or talk to sales. The question worth bringing to every quarterly review: did our brand become more present, more credible, and more likely to shape demand?
 
 The data will stay imperfect, and a disciplined AI marketing program says so. What it can do is show, quarter after quarter, whether the answers your buyers read are moving in your favor. If you want to build that discipline into how your team measures and earns answers, [Content Workshop's AI Studio](https://contentworkshop.com/solutions/ai-marketing/) is where the framework becomes a working system.
 <!--BODY-END-->
