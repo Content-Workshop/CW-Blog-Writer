@@ -45,9 +45,9 @@ If you want the broader context first, here is [how we help marketing teams put 
 
 Something else turned up this week, and we'd like it on the record that we did not invite it.
 
-A brand called SlopCo has launched. It has a website, a LinkedIn page, and, we're told, a booth with an AI sales rep. Word is that SlopCo doesn't like us very much.
+A brand called Artisanal Slop has launched. It has a website, a LinkedIn page, and, we're told, a booth with an AI sales rep. Word is that Artisanal Slop doesn't like us very much.
 
-We have questions about its content strategy, its tone, and its definition of a value proposition. You can judge for yourself at [SlopCo's website](https://artisanalslop.ai/) and on [its LinkedIn page](https://www.linkedin.com/company/artisanalslop/). Think of it as a case study in what happens when everyone has a generator and nobody has a system. We'd say the timing of its arrival is a coincidence, but we'd be doing exactly what SlopCo would do.
+We have questions about its content strategy, its tone, and its definition of a value proposition. You can judge for yourself at [Artisanal Slop's website](https://artisanalslop.ai/) and on [its LinkedIn page](https://www.linkedin.com/company/artisanalslop/). Think of it as a case study in what happens when everyone has a generator and nobody has a system. We'd say the timing of its arrival is a coincidence, but we'd be doing exactly what Artisanal Slop would do.
 
 If you meet its AI sales rep, ask it something specific about your own product. Then ask a follow-up. We have a feeling the conversation will make our argument for us.
 
