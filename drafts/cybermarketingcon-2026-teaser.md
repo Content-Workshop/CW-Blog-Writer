@@ -13,11 +13,11 @@ We'll be at CyberMarketingCon 2026 with three things: a maturity model, a talk, 
 
 We're bringing the [AI Marketing Maturity Model](https://aimm.contentworkshop.com/), the framework we built to show marketing teams where they stand with AI and what the next stage looks like. It has five stages:
 
-1. **Fragmented:** individuals experiment on their own, and quality varies by person.
-2. **Reactive:** AI is adopted, but the process hasn't changed, so old inefficiencies simply move faster.
-3. **Coordinated:** a few workflows genuinely work, but they live with one person.
-4. **Integrated:** the department shares a playbook, and new hires ramp quickly.
-5. **Systemized:** a small team meets demand proactively and tracks its progress.
+1. **Fragmented:** individual, one-off efforts with no shared process and no brand governance on AI output.
+2. **Reactive:** pockets of AI use bolted onto old workflows, with output that varies by who touches it.
+3. **Coordinated:** a documented process for at least one channel or campaign type, with brand voice guardrails on AI output.
+4. **Integrated:** AI and automation combined in a governed system across multiple channels and campaigns, consistent and measured.
+5. **Systemized:** every channel and campaign runs off one system, telling the same story without manual reconciliation.
 
 Where you land is only half the picture. The other number is where your leadership expects you to be, and the gap between the two is the thing you actually manage. Plenty of teams are living in that gap without a clear way to describe it to the people above them.
 
@@ -29,7 +29,7 @@ You can take the survey before the show at [aimm.contentworkshop.com](https://ai
 
 ## What the Talk Covers for Cybersecurity Marketing Teams
 
-David Ebner, our founder and president, will present **From Slop to Story: Scaling Your Brand Voice with AI** on [DAY] at [TIME] in [ROOM].
+David Ebner, our founder and president, will present **From Slop to Story: Scaling Your Brand Voice with AI** on Monday, November 16, from 1:15 to 1:55 p.m.
 
 We won't spoil it, but here is the premise. Slop is slop, whatever produced it, and a technical buyer can spot it within a sentence. In cybersecurity marketing, where CISOs and CTOs read for nuance, a generic paragraph costs you credibility you spent years earning.
 
@@ -39,7 +39,7 @@ Velocity shouldn't cost you credibility. Out of the box, AI doesn't sound like y
 
 David will walk through how a team can build one shared system that holds its voice across every touchpoint, where the humans belong in that system, and what the next move looks like at each stage of the model. He'll also share where cybersecurity companies actually landed when we mapped them against it.
 
-If you want the broader context first, here is [how we think about putting AI to work inside a marketing function]([PILLAR PAGE URL]).
+If you want the broader context first, here is [how we help marketing teams put AI to work](https://contentworkshop.com/solutions/ai-marketing/).
 
 ## A Brand Has Appeared, and It Has Notes
 
@@ -47,7 +47,7 @@ Something else turned up this week, and we'd like it on the record that we did n
 
 A brand called SlopCo has launched. It has a website, a LinkedIn page, and, we're told, a booth with an AI sales rep. Word is that SlopCo doesn't like us very much.
 
-We have questions about its content strategy, its tone, and its definition of a value proposition. You can judge for yourself at [SlopCo's website]([SLOPCO SITE URL]) and on [its LinkedIn page]([SLOPCO LINKEDIN URL]). Think of it as a case study in what happens when everyone has a generator and nobody has a system. We'd say the timing of its arrival is a coincidence, but we'd be doing exactly what SlopCo would do.
+We have questions about its content strategy, its tone, and its definition of a value proposition. You can judge for yourself at [SlopCo's website](https://artisanalslop.ai/) and on [its LinkedIn page](https://www.linkedin.com/company/artisanalslop/). Think of it as a case study in what happens when everyone has a generator and nobody has a system. We'd say the timing of its arrival is a coincidence, but we'd be doing exactly what SlopCo would do.
 
 If you meet its AI sales rep, ask it something specific about your own product. Then ask a follow-up. We have a feeling the conversation will make our argument for us.
 
