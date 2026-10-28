@@ -69,8 +69,10 @@
 | Tracking | Depends on the activation. Copy says tracking is scoped to each activation and points to case study examples (RGC quarterly usage reports to OLG, Xbox tracking and reporting, Chudleigh's guest insights). No blanket promise of specific metrics. |
 | Buy or Rent | Leave off this page (details unconfirmed) |
 | Installation / on-site | Available as an add-on, scoped case by case (fee). Focus: North America (user believes; confirm). Copy: offer setup and on-site support without promising it's included or naming a fixed scope. |
+| Lead capabilities | Interactive Kiosks · Video Games · AR/VR · Immersive Booths. Others (Dynamic Tables, Motion Sensors, Realtime Displays, RFID trackables) as a secondary "also" line. |
 
 ## Open items
 
 - [x] Case studies: Xbox and RGC as two equal cards side by side (user handling design)
 - [ ] Confirm North America as the on-site support area
+- [ ] Confirm the secondary capabilities (Dynamic Tables, Motion Sensors, Realtime Displays, RFID trackables) are still offered
