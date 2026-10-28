@@ -14,6 +14,7 @@
 | Primary offer | Bundle (saves $297); Parts 1 and 2 shown as alternatives |
 | Prices | TBD: use `[PRICE]` placeholders |
 | Format | Self-paced |
+| Proof (current) | David Moulton quote (Director of Content and Thought Leadership, Palo Alto Networks), placeholder until beta quotes arrive |
 | Buyers | Individuals and marketing leaders buying for teams |
 | CTA | Primary: single checkout for individual purchases. Secondary: team inquiry form for group coupon codes. |
 | Group pricing (proposed, "maybe") | 10% off for 3–5 licenses; 20% off for 6+. Buyers reach out via inquiry form to get a coupon code. |
@@ -42,6 +43,8 @@
 7. **Implementation, Management, & Ethics:** Minimum Viable Output (MVO), agent maintenance, mandatory "Authenticity Filter."
 
 ## Open items
+
+- [ ] Beta user quotes (user pulling these); swap in for or add to the Moulton quote
 
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
