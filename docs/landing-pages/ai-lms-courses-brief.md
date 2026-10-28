@@ -32,7 +32,7 @@
 ## Course content
 
 ### AI Marketing Operator (Part 1)
-1. **The AI Mindset & The "Human Sandwich":** AI as the "velocity filling" between original strategy and final human review.
+1. **The AI Mindset & The "Human-AI-Human Sandwich"** (canonical name; course copy says "Human Sandwich"): AI as the "velocity filling" between original strategy and final human review.
 2. **Building Your AI Strategy:** map workflows to find tedious bottlenecks where AI can safely save hours.
 3. **The Modern Marketing AI Toolkit:** "Connectivity over Consolidation"; match specific tools to the tasks they excel at.
 4. **Prompt Engineering as System Logic:** 8-part structural framework (boundaries, context, success criteria).
@@ -50,5 +50,4 @@
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
 - [ ] Confirm group discount tiers are final (source said "maybe")
 - [ ] Team inquiry form fields: what to collect (company, name, email, number of licenses, which course/bundle?)
-- [ ] Name check: "Human Sandwich" (course) vs. "Human-AI-Human" (AI Studio page): same concept? Which name on this page?
 - [ ] Style: "seamlessly" (×2 in source) to rephrase; "Build the factory, not just the product" and "Automation moves data; AI makes meaning" are both negative-setup / contrast lines: pick one as the page's allowed exception
