@@ -18,7 +18,7 @@
 | Buyers | Individuals and marketing leaders buying for teams |
 | CTA | Primary: single checkout for individual purchases. Secondary: team inquiry form for group coupon codes. |
 | Group pricing (proposed, "maybe") | 10% off for 3–5 licenses; 20% off for 6+. Buyers reach out via inquiry form to get a coupon code. |
-| Community | AI Workshop Slack Community: free for 3 months with each course purchase. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Join link in intro email. |
+| Community | AI Workshop Slack Community: free for 3 months with Part 1 or Part 2; 6 months with the bundle. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Join link in intro email. |
 
 ## Pain / positioning language (from course copy)
 
@@ -48,7 +48,6 @@
 
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
-- [ ] Slack access length for bundle buyers (3 months? 6?)
 - [ ] Confirm group discount tiers are final (source said "maybe")
 - [ ] Team inquiry form fields: what to collect (company, name, email, number of licenses, which course/bundle?)
 - [ ] Operator's stated goal duplicates Architect's ("orchestrating connected systems"): confirm Operator's real goal
