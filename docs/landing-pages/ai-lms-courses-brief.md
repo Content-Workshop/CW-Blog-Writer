@@ -73,7 +73,7 @@
 - [ ] Confirm lifetime course access before publish (user: "as far as I know")
 
 - [ ] Beta user quotes (user pulling these); Moulton quote now fits (course grew out of the PANW program)
-- [ ] Name mismatch: blog says "Human Sandwich"; page uses "Human-AI-Human Sandwich"
+- [ ] "Human-AI-Human Sandwich" confirmed as the official name everywhere: update the launch blog and Module 1
 - [ ] Part 2 tagline: blog "Build the Factory Behind the Product" (no negative-setup) vs. course "Build the factory, not just the product"
 - [ ] Quick Wins Playbook: confirm name ("toolkit" in URL) and whether every purchase or only the bundle includes it
 
