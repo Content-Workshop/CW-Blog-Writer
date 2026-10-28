@@ -1,6 +1,6 @@
 # Landing Page Brief: AI LMS Courses
 
-**Status:** Interview complete; ready to draft (October 28, 2026)
+**Status:** First draft written October 28, 2026: https://claude.ai/artifact/Mkt1uQ9PLhvxvHLrwcWa28
 **Template:** `docs/landing-page-template.md`
 
 ## Confirmed
