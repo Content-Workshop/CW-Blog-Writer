@@ -67,6 +67,7 @@
 | Core pain | Booths that all look the same; they want to be memorable |
 | Form | Company*, Full Name*, Title*, Email*, Event or launch date (optional), What are you planning? (Trade show / Conference / Retail activation / Product launch / Other), CAPTCHA. Button: Plan Your Activation |
 | Tracking | Depends on the activation. Copy says tracking is scoped to each activation and points to case study examples (RGC quarterly usage reports to OLG, Xbox tracking and reporting, Chudleigh's guest insights). No blanket promise of specific metrics. |
+| Buy or Rent | Leave off this page (details unconfirmed) |
 
 ## Open items
 
