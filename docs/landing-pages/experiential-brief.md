@@ -24,6 +24,32 @@
 - **Featured case study:** Star Wars, "Find the Force" campaign. Designed and developed the Canadian site where users could play an embedded game within Google Maps and unlock virtual reality features and other early-access, in-store perks.
 - **Contact:** Get in touch. Chatbot in the lower right-hand corner.
 
+## Case studies (as provided; numbers exact)
+
+### Responsible Gambling Council (RGC)
+- Experiential kiosk network in **more than 90 bingo halls and casinos across Ontario**, promoting responsible gambling.
+- Original educational video games on touchscreen kiosks (mini PC + custom software) with backend tracking and reporting to the Ontario Lottery and Gaming Corporation (OLG).
+- Challenge: low-attention, high-distraction environments.
+- Results: quarterly reports to OLG on total interactions (**reaching 50,000 people per quarter in some cases**) and most popular games. Long-term partnership: new games and network maintenance over **a six to seven year period**.
+
+### Chudleigh's
+- Pick-your-own apple farm and café in Milton, Ontario; **more than 60 years** in business; **120,000 square-foot** property.
+- Problem: entry/check-in couldn't keep up (regular visitors, season's pass holders, special events, corporate bookings).
+- Solution: custom Chudleigh's Check-in App, per-ticket QR codes, WooCommerce integration, branded **3D-printed scanners** at waist height designed for reliable QR scanning.
+- Results: one system handling everything from seasonal apple pickers to **more than 700 visitors for sold-out music nights**; insight into favorite events, biggest fans, busiest days; better staffing and event decisions.
+
+### Xbox Game Pass (Canadian launch)
+- Bridged digital and physical retail at **Best Buy locations across the country** using Shazam's mobile platform (no new app download).
+- Interactive displays, gamified slot machine-style web app, data processing framework, cardboard cutouts.
+- Contest system handling **over 10,000 unique winner codes**; real-time winner selection with skill-testing questions; anti-gaming security; tracking and reporting; monitoring throughout.
+- Results: **successfully distributed over 10,000 Game Pass subscription codes**; **maintained 99.9% system uptime** throughout the campaign; scalable framework for future retail-digital promotions.
+- Case study tag: https://contentworkshop.com/work-tag/experiential-studio/
+
+### Star Wars ("Find the Force")
+- Canadian site with an embedded game in Google Maps; unlocked VR features and early-access, in-store perks.
+
+**Note:** none of these is a B2B trade show booth. The closest fit for the buyer: Xbox (in-person activation linking physical and digital, hard numbers) and RGC (interactive kiosks + tracking in high-distraction environments, similar to a show floor).
+
 ## Early notes
 
 - "Deliver" step reads like content-marketing copy (thought leadership, content that grows with you), not event delivery. Likely needs rewriting.
