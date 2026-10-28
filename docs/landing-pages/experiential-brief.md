@@ -68,5 +68,5 @@
 
 ## Open items
 
-- [ ] Featured case study: Xbox or RGC (user narrowed to these two)
+- [x] Case studies: Xbox and RGC as two equal cards side by side (user handling design)
 - [ ] Buyer still event marketing managers at B2B tech now that focus is broader?
