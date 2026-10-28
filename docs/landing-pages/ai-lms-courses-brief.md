@@ -56,6 +56,14 @@
 - **Community:** home of the "Quick Wins Playbook" (link: /quick-wins-toolkit-teaser/). The bundle "hands you a playbook, a working prompt library, and a quick-wins guide, right off the bat."
 - **Part 2 heading in blog:** "Build the Factory Behind the Product"
 
+## Reviewer feedback: Susan (October 28, 2026), all applied
+
+- Pillar 2: agents know "the things they should always (and should never) do."
+- Pillar 2: "Automation moves data; AI makes meaning" replaced with "Automation moves data, AI provides context, and your team members get to do what they do best: create." (Susan's wording, semicolons changed to commas.)
+- Pillar 3: "Several of our strategists" changed to "Our team of AI strategists spent years as accredited college professors." The launch blog says "several of us," so confirm the claim holds for the whole team.
+- Pricing merged into the curriculum section: steps table, then pricing cards, under one H2 ("From Panic-Prompting to a Connected AI Ecosystem"). The separate "Choose Your Path" H2 is gone.
+- "Beige" used once only (ticker); removed from FAQ 5. Susan: it reads as AI-written.
+
 ## FAQ (approved list, 9)
 
 1. Do I need to take Part 1 before Part 2?
