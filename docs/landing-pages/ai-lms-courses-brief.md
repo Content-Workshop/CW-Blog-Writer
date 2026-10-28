@@ -45,6 +45,17 @@
 6. **Automation vs. AI & Workflow Mapping:** "Automation moves data; AI makes meaning." 5-stage architecture; handoff logic between platforms and agents.
 7. **Implementation, Management, & Ethics:** Minimum Viable Output (MVO), agent maintenance, mandatory "Authenticity Filter."
 
+## From the launch blog (shared October 28, 2026)
+
+- **Origin:** David asked, "Do we have any teachers in the room?" Several CW strategists are former accredited college professors. Taught one class, then ten, then built the public course.
+- **Audience:** the boss wants "ROI on AI by end of day"; someone stuck at a blank prompt; a small team whose whole AI strategy is a Claude Pro subscription; marketers tired of AI jargon. **Not for:** people already building custom workflows, deploying models, or running agent harnesses.
+- **Proof (Palo Alto Networks, Unit 42 and Cortex marketing teams):** a private version of the course. AI readiness assessment, then a 12-week program with twice-weekly sessions centered on Google Gemini in their Workspace environment, also covering ChatGPT, Claude, and Notion AI. 95% of trainees felt prepared to keep learning as tools evolve. Time saved: 30% saved 3–4 hrs/week, 45% saved 5–8, 15% saved 9+. Internal AI readiness score moved from a 79 benchmark to 91. Case study: https://contentworkshop.com/work/palo-alto-networks-ai-training/
+- **Format:** self-paced video lectures, live demos, quizzes, hands-on activities.
+- **Order:** can buy each course alone, "but the order matters either way."
+- **URLs:** Operator /courses/ai-marketing-operator/ · Architect /courses/ai-marketing-architect/ · Bundle /groups/architecting-the-ai-marketing-ecosystem-bundle/
+- **Community:** home of the "Quick Wins Playbook" (link: /quick-wins-toolkit-teaser/). The bundle "hands you a playbook, a working prompt library, and a quick-wins guide, right off the bat."
+- **Part 2 heading in blog:** "Build the Factory Behind the Product"
+
 ## FAQ (approved list, 9)
 
 1. Do I need to take Part 1 before Part 2?
@@ -61,7 +72,10 @@
 
 - [ ] Confirm lifetime course access before publish (user: "as far as I know")
 
-- [ ] Beta user quotes (user pulling these); swap in for or add to the Moulton quote
+- [ ] Beta user quotes (user pulling these); Moulton quote now fits (course grew out of the PANW program)
+- [ ] Name mismatch: blog says "Human Sandwich"; page uses "Human-AI-Human Sandwich"
+- [ ] Part 2 tagline: blog "Build the Factory Behind the Product" (no negative-setup) vs. course "Build the factory, not just the product"
+- [ ] Quick Wins Playbook: confirm name ("toolkit" in URL) and whether every purchase or only the bundle includes it
 
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
