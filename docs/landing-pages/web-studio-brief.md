@@ -46,6 +46,7 @@
 
 | Field | Answer |
 |---|---|
+| Page type | Sendable web services page (a link to send people), covering design, development, maintenance, and hosting |
 
 ## Open items
 
