@@ -60,7 +60,7 @@
 
 - Pillar 2: agents know "the things they should always (and should never) do."
 - Pillar 2: "Automation moves data; AI makes meaning" replaced with "Automation moves data, AI provides context, and your team members get to do what they do best: create." (Susan's wording, semicolons changed to commas.)
-- Pillar 3: "Several of our strategists" changed to "Our team of AI strategists spent years as accredited college professors." The launch blog says "several of us," so confirm the claim holds for the whole team.
+- Pillar 3: final wording "Several of our AI strategists spent years as accredited college professors" (Susan suggested "Our team of AI strategists"; changed back to "several" to match the launch blog).
 - Pricing merged into the curriculum section: steps table, then pricing cards, under one H2 ("From Panic-Prompting to a Connected AI Ecosystem"). The separate "Choose Your Path" H2 is gone.
 - "Beige" used once only (ticker); removed from FAQ 5. Susan: it reads as AI-written.
 
