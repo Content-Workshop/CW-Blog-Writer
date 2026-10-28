@@ -75,6 +75,8 @@
 
 ## FAQ (approved list, 7)
 
+*Answers shortened to ~15–35 words after user feedback ("a bit long"). Confirmation message has no follow-up timing (user edit).
+
 1. What kinds of activations do you build?
 2. Can you build for trade shows and conferences?
 3. How far ahead should we start planning? — **Answer basis:** depends on scope; reach out as early as possible. No fixed lead time.
@@ -89,4 +91,3 @@
 - [ ] Confirm North America as the on-site support area
 - [ ] Experiential testimonial (may not be available; cut section if none)
 - [ ] Case study URLs for Xbox and RGC
-- [ ] Form confirmation follow-up timing
