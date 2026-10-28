@@ -48,7 +48,9 @@
 |---|---|
 | Page type | Sendable web services page (a link to send people), covering design, development, maintenance, and hosting |
 | Audience | Anyone we send it to: prospects after a sales call, existing clients being upsold to web work, inbound "do you do websites?" leads. Copy must work cold or warm. |
+| Conversion | Keep it simple. One general project form (no per-service choice; hosting and maintenance come up on the call). Two CTA buttons: "Tell us about your project" (to form) and "Book a call" (calendar link). |
 
 ## Open items
 
 - [ ] Updated hosting prices
+- [ ] Booking link for "Book a call"
