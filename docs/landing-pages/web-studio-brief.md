@@ -81,6 +81,7 @@
 | Core pains | (1) Outdated site that doesn't reflect the brand; (2) juggling separate vendors for design, dev, hosting; (3) managing site needs with a less technical team |
 | Case studies | Featured: ESO (most recent; B2B; 700-plus-page restructure launched on schedule). Proof points: Fox Harb'r (full design-to-hosting-and-maintenance story) and Halo (metrics). |
 | Capabilities | All 10 still offered (UX/UI Design, Web Development, Landing Pages, Native Apps, Web Apps, E-commerce, Design System, Mobile Optimization, WordPress Design, More) |
+| Platform | Lean WordPress (WordPress-first wording; Shopify/other platforms not excluded, e.g., Halo) |
 | Management services | Hosting, maintenance, and security updates get their own section (services grid: Design · Development · Maintenance & Security · Hosting), not mixed into the capabilities list. Hosting links to /web-hosting/. |
 
 ## Open items
