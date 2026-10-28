@@ -62,10 +62,11 @@
 |---|---|
 | Offer | Experiential Studio (IRL + digital brand experiences for events) |
 | Page goal | Lead capture via form |
-| Focus | Trade shows and events (more focused than the current solutions page) |
+| Focus | The kinds of activations CW can build (broader than trade shows; trade shows and events are one use) |
 | Buyer | Event marketing managers at B2B tech companies |
 | Core pain | Booths that all look the same; they want to be memorable |
 
 ## Open items
 
-- [ ] (filled as the interview runs)
+- [ ] Featured case study: Xbox or RGC (user narrowed to these two)
+- [ ] Buyer still event marketing managers at B2B tech now that focus is broader?
