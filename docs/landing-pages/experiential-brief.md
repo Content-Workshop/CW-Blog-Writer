@@ -1,6 +1,6 @@
 # Landing Page Brief: Experiential Studio
 
-**Status:** Interview in progress (started October 28, 2026)
+**Status:** Interview complete; ready to draft (October 28, 2026)
 **Template:** `docs/landing-page-template.md`
 
 ## Source: current Experiential Studio solutions page (as provided)
@@ -71,6 +71,7 @@
 | Installation / on-site | Available as an add-on, scoped case by case (fee). Focus: North America (user believes; confirm). Copy: offer setup and on-site support without promising it's included or naming a fixed scope. |
 | Lead capabilities | Interactive Kiosks · Video Games · AR/VR · Immersive Booths. Others (Dynamic Tables, Motion Sensors, Realtime Displays, RFID trackables), all still offered, as a secondary "also" line. |
 | SEO | Primary (only) keyword: "experiential marketing" (exact word order). Copy quality wins; not forced into the H1. |
+| Testimonials | Placeholder only; an experiential testimonial may not be available. Section can be cut if none comes in. |
 
 ## FAQ (approved list, 7)
 
@@ -86,3 +87,4 @@
 
 - [x] Case studies: Xbox and RGC as two equal cards side by side (user handling design)
 - [ ] Confirm North America as the on-site support area
+- [ ] Experiential testimonial (may not be available; cut section if none)
