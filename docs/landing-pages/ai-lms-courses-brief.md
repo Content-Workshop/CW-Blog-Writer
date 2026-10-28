@@ -21,7 +21,7 @@
 | Team inquiry form | Company*, Full Name*, Title*, Email*, Number of seats*, Option (Part 1 / Part 2 / Bundle), CAPTCHA. Terminology: always "seats," never "licenses." |
 | Primary traffic | Conference, but copy stays evergreen: no event name, dates, or show-specific offers |
 | SEO | Primary keyword: "AI marketing course" (exact word order, exact-match once). Secondary: "AI training for marketing teams" (fits team buyers). Copy quality wins: keyword goes in meta title, meta description, slug, and one natural spot in body or FAQ; never forced into the H1. |
-| Community | AI Workshop Slack Community: free for 3 months with Part 1 or Part 2; 6 months with the bundle. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Join link in intro email. |
+| Community | AI Workshop Slack Community: free for 3 months with Part 1 or Part 2; 6 months with the bundle. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Join link in intro email. After free period: $5/month or $50/year. |
 
 ## Pain / positioning language (from course copy)
 
@@ -52,7 +52,7 @@
 3. Do I need technical or coding skills?
 4. Which AI tools and platforms does the course cover? — **Answer basis:** mostly tool-agnostic; includes Claude-, Gemini-, and Notion-specific demos.
 5. Will AI make my content sound generic?
-6. What's included in the AI Workshop Slack Community, and what happens after my free access ends?
+6. What's included in the AI Workshop Slack Community, and what happens after my free access ends? — **Answer basis:** after free period, stay for $5/month or $50/year.
 7. Can I buy seats for my team? (group discounts)
 8. Do I get lifetime access to the course material?
 9. Is there a certificate of completion?
