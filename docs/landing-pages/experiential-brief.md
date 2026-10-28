@@ -38,6 +38,7 @@
 | Page goal | Lead capture via form |
 | Focus | Trade shows and events (more focused than the current solutions page) |
 | Buyer | Event marketing managers at B2B tech companies |
+| Core pain | Booths that all look the same; they want to be memorable |
 
 ## Open items
 
