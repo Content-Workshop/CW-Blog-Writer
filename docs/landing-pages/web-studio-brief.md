@@ -1,0 +1,52 @@
+# Landing Page Brief: Web Studio
+
+**Status:** Interview in progress (started October 28, 2026)
+**Template:** `docs/landing-page-template.md`
+
+## Source 1: current Web Studio solutions page (as provided)
+
+- **Label:** 03 Web Studio
+- **Headline:** Unveil Your Story to the World
+- **Subhead:** Web design that puts your unique story at the forefront.
+- **Intro line:** Our sites drive sticky visits, not bouncy exits.
+- **Web Design:** New Sites (built-from-scratch WordPress sites, with all the plugins and integrations you want) · Refreshes (a quick facelift for an existing site that has gone a bit stale) · Site Migration (move from your current CMS to WordPress)
+- **Web Development:** Integrations (if it's got an API, we can likely connect it to your site to allow data to flow seamlessly) · Custom plug-ins and Applications (if the feature you want doesn't exist, we can build it)
+- **Web Management:** Ongoing Maintenance (on call for updates and changes) · Site Monitoring & Security (uptime monitoring, site security) · Hosting and Domains (we host you on our servers; domain renews like clockwork)
+- **Positioning line:** Showcase your solutions in your digital storefront. Avoid jargony word salad and unintentional web design. We build sites that make visitors feel like they belong.
+- **Capabilities:** UX/UI Design · Web Development · Landing Pages · Native Apps · Web Apps · E-commerce · Design System · Mobile Optimization · WordPress Design · More
+- **Process:**
+  1. **Discover:** With your expertise, we unearth information about your target audience, solutions, and unique value proposition to guide our design process.
+  2. **Create:** We workshop design concepts, then build the site architecture to bring your brand to life, then add design and copy.
+  3. **Deliver:** We're with you after go-live. We'll optimize, update, and fill your website with the content needed to sustain your marketing engine.
+- **Featured case study:** Fox Harb'r (Web Design). Elevate the digital experience to match their white-glove resort atmosphere; redesigned the website from the ground up. https://contentworkshop.com/work/fox-harbr/
+- **Links:** work tag https://contentworkshop.com/work-tag/web-studio/ · solutions https://contentworkshop.com/solutions/
+
+## Source 2: current Hands-Off Hosting landing page (as provided)
+
+**Pricing is out of date (user, October 28, 2026). Do not reuse the prices below without confirmation.**
+
+- **H1:** Hands-Off Hosting
+- **Subhead:** Everything your site needs to stay backed up, secured, and online without you needing technical expertise.
+- **Bullets:** Regular backups · SSL, domain registration, and uptime monitoring included on every plan · Cloudflare protection on all tiers
+- **Form:** Get Started With Managed Hosting. Full Name* | Email* | Company URL* | Plan Option* (Tier 1 / Tier 2 / VPS / Unsure)
+- **What Our Team Handles for You:** backups on schedule, logs cleared, SSL current; domain, uptime monitoring, baseline security included.
+- **Three steps:** Pick Your Tier · Submit Your Information (pre-authorized card or bank ACH; invoicing for VPS) · We Provision and Monitor
+- **Included in every plan:** Security by Default (SSL + Cloudflare; VPS gets Cloudflare Pro) · Backups Without Babysitting · Uptime You Can Verify · One Bundled Domain
+- **Billing:** annual agreements; pay monthly, or save 10% by paying the full year upfront
+- **Tiers (OLD prices):** Tier 1 $1,200 (20 GB, basic security) · Tier 2 $1,700, Most Popular (40 GB) · VPS $9,000 (4 vCPU / 200 GB, Cloudflare Pro)
+- **FAQ:** What happens if I outgrow my tier? · Do you handle WordPress or plugin updates? · Can I pay monthly instead of annually upfront?
+
+## Early notes
+
+- "Our sites drive sticky visits, not bouncy exits" is a negative-setup line.
+- "allow data to flow seamlessly" uses a banned cliché.
+- "Deliver" step overlaps with content marketing ("fill your website with valuable content").
+
+## Confirmed
+
+| Field | Answer |
+|---|---|
+
+## Open items
+
+- [ ] Updated hosting prices
