@@ -5,7 +5,7 @@
 
 **How to use this:** Copy the **Template** section into a new doc and fill every `[SLOT]`. Length targets come from the AI Studio page, so a filled page fits the existing layout without design changes. Each section's fields are fixed by the page design: keep the counts (3 hero benefits, 3 pillars, 4 steps, 4 outcomes, 4 testimonials). If you need a different count, check with design first. The AI Studio copy is kept below as a worked example.
 
-**Before drafting:** fill the **Page Brief**. Voice, banned clichés, and name verification follow `content-workshop-blog-writer-instructions.md` and `content-workshop-editorial-addendum.md`. See **Style Notes** for which blog rules carry over.
+**Before drafting:** fill the **Page Brief**. Landing pages lean toward the blog rules in `content-workshop-blog-writer-instructions.md` and `content-workshop-editorial-addendum.md`, but don't follow all of them strictly. See **Style Notes** for the three tiers.
 
 ---
 
@@ -174,25 +174,44 @@ Assess: We'll identify the friction points holding you back. Together, we'll ima
 
 ## Style Notes
 
-The blog rules were written for blogs. These carry over to landing pages unchanged:
+**Policy:** landing pages don't follow every strict blog rule, but they lean that way where possible. Short, punchy copy can earn an exception. An exception should be a choice made on purpose, not a habit. Rules fall into three tiers.
 
-- **Name verification** (addendum Rule 2): client names, testimonial names/titles, and internal product names (AI Studio, Gems, etc.) get checked against the source.
-- **Banned clichés** (main instructions, Style Rules).
+### Tier 1: Always apply (no exceptions)
+
+Factual and mechanical rules. These protect accuracy, not style.
+
+- **Name verification** (addendum Rule 2): client names, testimonial names/titles, and internal product names (AI Studio, Gems, etc.) checked against the source.
+- **Stats match the source exactly**: no rounding or restating.
+- **Testimonials used exactly as approved.**
 - **Exact keyword word order** (addendum Rule 1), if the page targets a keyword.
-- **Shortening pass on H1 and meta title** (addendum Rule 5).
+- **Em dashes set closed** (`word—word`), never spaced.
 
-**Open question: not yet decided for landing pages.** The AI Studio page includes patterns the blog rules would flag:
+### Tier 2: Default, bend when it earns it
 
-| Pattern | Where on AI Studio page | Blog rule |
+Follow these unless breaking one makes a specific line clearly stronger. Limit: **one exception per category per page.**
+
+| Rule | Landing page version |
+|---|---|
+| Banned clichés | Avoid. One is allowed only if it is the clearest phrasing and you can't find a fresh alternative. Never in the H1. |
+| Negative-setup construction ("isn't X, it's Y") | One per page, either in a heading or the body. On a landing page it can work as a section-heading hook. |
+| Em dash count (≤3) | Same ceiling. |
+| Shortening pass (addendum Rule 5) | Always run it on the H1, section headings, and meta title. |
+| "Silent" / "quiet" tell-words | Same as blogs: flag on use. |
+
+### Tier 3: Blog-only (doesn't apply)
+
+Word count targets, intro structure, the rule converting full-sentence bullets to H3 + paragraph pairs, the internal-linking rules, and the blog outline template. The layout in this template takes their place.
+
+### AI Studio page, measured against this policy
+
+| Pattern | Where | Verdict |
 |---|---|---|
-| "moving the needle" | Hero subhead | Banned cliché ("move the needle") |
-| "seamless" | Benefit 2, Pillar 2 | Banned cliché ("seamless experience") |
-| "unlock your true flow" | Process: Build | Close to banned "unlock success" |
-| "Isn't Forced. It's Designed." | Process heading | Negative-setup construction; zero allowed in headings |
-| "built for everyone, it's built for no-one" | Pillar 2 | Counts toward the one-per-piece body limit |
-| Spaced em dash ("Built — And") | Case study heading | Em dashes set closed (`word—word`) |
-
-Decide whether landing pages follow the blog rules strictly or get a looser version for short, punchy copy, then record the answer here. Until then, follow the blog rules on new pages, and don't copy these phrases over from the AI Studio page.
+| "Isn't Forced. It's Designed." | Process heading | Acceptable: the page's one negative-setup exception, and the line works as a hook |
+| "built for everyone, it's built for no-one" | Pillar 2 | Over the limit, because the process heading already uses the one allowed. Rework on reuse. |
+| "moving the needle" | Hero subhead | Rework: a banned cliché, high on the page; a fresher line is available |
+| "seamless" (×2) | Benefit 2, Pillar 2 | Rework: one would be the max, and both have easy replacements |
+| "unlock your true flow" | Process: Build | Rework: close to "unlock success" |
+| Spaced em dash ("Built — And") | Case study heading | Fix: Tier 1 rule; set as "Built—And" or use a colon |
 
 ---
 
@@ -205,5 +224,6 @@ Decide whether landing pages follow the blog rules strictly or get a looser vers
 - [ ] Every testimonial name, title, and company verified; quotes used exactly as approved
 - [ ] Every term introduced on the page is defined in the FAQ
 - [ ] All CTA links resolve (Contact, client work page, case study)
-- [ ] Find-pass for banned clichés and negative-setup constructions
-- [ ] Em dashes set closed; count kept low
+- [ ] Tier 1 rules all pass (names, stats, quotes, keyword order, closed em dashes)
+- [ ] Find-pass for banned clichés and negative-setup constructions: at most one exception per category, never a cliché in the H1
+- [ ] Em dashes ≤3
