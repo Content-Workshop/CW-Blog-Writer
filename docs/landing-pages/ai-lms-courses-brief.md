@@ -19,7 +19,7 @@
 | CTA | Primary: single checkout for individual purchases. Secondary: team inquiry form for group coupon codes. |
 | Group pricing (proposed, "maybe") | 10% off for 3–5 seats; 20% off for 6+ seats. Buyers reach out via inquiry form to get a coupon code. |
 | Team inquiry form | Company*, Full Name*, Title*, Email*, Number of seats*, Option (Part 1 / Part 2 / Bundle), CAPTCHA. Terminology: always "seats," never "licenses." |
-| Primary traffic | Conference |
+| Primary traffic | Conference, but copy stays evergreen: no event name, dates, or show-specific offers |
 | SEO | Primary keyword: "AI marketing course" (exact word order, exact-match once). Secondary: "AI training for marketing teams" (fits team buyers). Copy quality wins: keyword goes in meta title, meta description, slug, and one natural spot in body or FAQ; never forced into the H1. |
 | Community | AI Workshop Slack Community: free for 3 months with Part 1 or Part 2; 6 months with the bundle. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Join link in intro email. |
 
