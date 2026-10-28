@@ -65,6 +65,7 @@
 | Focus | The kinds of activations CW can build (broader than trade shows; trade shows and events are one use) |
 | Buyer | Marketing teams in any industry, leaning B2B (event and field marketers are a core segment) |
 | Core pain | Booths that all look the same; they want to be memorable |
+| Form | Company*, Full Name*, Title*, Email*, Event or launch date (optional), What are you planning? (Trade show / Conference / Retail activation / Product launch / Other), CAPTCHA. Button: Plan Your Activation |
 
 ## Open items
 
