@@ -16,4 +16,4 @@ Always load and apply both files above before drafting a blog. If the two files 
 
 ## Landing pages
 
-For CW website landing pages, use **`docs/landing-page-template.md`**: section-by-section slots, length targets, a worked example (AI Studio page), and a pre-publish checklist. Landing pages lean toward the blog rules but are not bound by all of them; the template's Style Notes define which apply.
+For CW website landing pages, use **`docs/landing-page-template.md`**: labeling conventions, a copy draft skeleton with length targets, a pricing variant, a worked example (AI Studio page), and a pre-publish checklist. Landing pages lean toward the blog rules but are not bound by all of them; the template's Style Notes define which apply.

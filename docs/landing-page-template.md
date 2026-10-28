@@ -1,9 +1,9 @@
 # Content Workshop Landing Page Template
 
 **Source page:** https://contentworkshop.com/ai-landing-page-with-form/ (AI Studio)
-**Created:** October 28, 2026
+**Created:** October 28, 2026 · **Updated:** October 28, 2026 (labeling conventions added)
 
-**How to use this:** Copy the **Template** section into a new doc and fill every `[SLOT]`. Length targets come from the AI Studio page, so a filled page fits the existing layout without design changes. Each section's fields are fixed by the page design: keep the counts (3 hero benefits, 3 pillars, 4 steps, 4 outcomes, 4 testimonials). If you need a different count, check with design first. The AI Studio copy is kept below as a worked example.
+**How to use this:** Copy the **Copy draft skeleton** into a new doc, follow the **Labeling conventions**, and fill every slot. Length targets come from the AI Studio page, so a filled page fits the existing layout without design changes. Each section's fields are fixed by the page design: keep the counts (3 hero benefits, 3 pillars, 4 steps, 4 outcomes, 4 testimonials). If you need a different count, check with design first. The AI Studio copy is kept below as a worked example.
 
 **Before drafting:** fill the **Page Brief**. Landing pages lean toward the blog rules in `content-workshop-blog-writer-instructions.md` and `content-workshop-editorial-addendum.md`, but don't follow all of them strictly. See **Style Notes** for the three tiers.
 
@@ -27,123 +27,184 @@
 
 ## Template
 
-### 1. Hero (left column)
+### Labeling conventions
 
-| Field | Target length | Copy |
-|---|---|---|
-| Eyebrow | 3–5 words | [EYEBROW] |
-| H1 | 5–8 words, ≤40 characters | [H1] |
-| Subhead | 1–2 sentences, 20–25 words | [SUBHEAD: name the pain, then introduce the offer] |
-| Benefit 1 | 1 sentence, 8–12 words | [BENEFIT_1] |
-| Benefit 2 | 1 sentence, 8–12 words | [BENEFIT_2] |
-| Benefit 3 | 1 sentence, 8–12 words | [BENEFIT_3] |
+Copy drafts use the same labels on every page, so designers and developers can scan them quickly:
 
-### 2. Hero Form (right column)
-
-| Field | Target length | Copy |
-|---|---|---|
-| Form heading | 1 sentence, 6–10 words | [FORM_HEADING: invitation to talk about the offer] |
-| Fields | Fixed | Company*, Full Name*, Title*, Email*, CAPTCHA |
-| Submit button | 1–3 words | [BUTTON_LABEL] |
-
-*Change fields only if the form is being rebuilt; the current form requires all four.*
-
-### 3. Scrolling Ticker (marquee)
-
-7 short phrases, 2–5 words each, separated by `•`. The site loops the row automatically, so enter it once.
-
-[PHRASE_1] • [PHRASE_2] • [PHRASE_3] • [PHRASE_4] • [PHRASE_5] • [PHRASE_6] • [PHRASE_7] •
-
-*Tip: reuse the eyebrow and one process-section heading so the ticker echoes the page.*
-
-### 4. Value Pillars (3 blocks)
-
-Each block: heading + 2 short paragraphs.
-
-| Block | Heading (3–5 words) | Paragraph 1 (20–35 words) | Paragraph 2 (25–45 words) |
-|---|---|---|---|
-| Pillar 1: approach | [PILLAR_1_HEADING] | [PILLAR_1_P1: how CW starts] | [PILLAR_1_P2: what that makes possible] |
-| Pillar 2: deliverable | [PILLAR_2_HEADING] | [PILLAR_2_P1: what's different about what CW builds] | [PILLAR_2_P2: why that matters to the client] |
-| Pillar 3: team | [PILLAR_3_HEADING] | [PILLAR_3_P1: who CW is] | [PILLAR_3_P2: origin / proof of credibility] |
-
-CTA button after pillars: **[CTA_LABEL]** → [CTA_URL] (default: Contact Us → /contact/)
-
-### 5. Process (4 steps)
-
-| Field | Target length | Copy |
-|---|---|---|
-| Section heading | 5–9 words | [PROCESS_HEADING] |
-| Step 1 name | 1 word (verb) | [STEP_1] |
-| Step 1 description | 1–2 sentences, 15–22 words | [STEP_1_DESC] |
-| Step 2 name | 1 word (verb) | [STEP_2] |
-| Step 2 description | 1–2 sentences, 15–22 words | [STEP_2_DESC] |
-| Step 3 name | 1 word (verb) | [STEP_3] |
-| Step 3 description | 1–2 sentences, 15–22 words | [STEP_3_DESC] |
-| Step 4 name | 1 word (verb) | [STEP_4] |
-| Step 4 description | 1–2 sentences, 15–22 words | [STEP_4_DESC] |
-
-### 6. Case Study Feature
-
-| Field | Target length | Copy |
-|---|---|---|
-| Section heading | 6–10 words | [CASE_SECTION_HEADING] |
-| Client name (linked) | Verified company name | [CLIENT_NAME] → [CLIENT_WORK_URL] |
-| Challenge paragraph | 2 sentences, 40–50 words | [CHALLENGE] |
-| Result paragraph | 2 sentences, 40–50 words | [RESULT_SUMMARY] |
-| Outcome 1 heading + body | 3–5 words + 25–35 words | [OUTCOME_1_HEADING] / [OUTCOME_1_BODY: lead with a hard number if one exists] |
-| Outcome 2 heading + body | 3–5 words + 25–35 words | [OUTCOME_2_HEADING] / [OUTCOME_2_BODY] |
-| Outcome 3 heading + body | 3–5 words + 25–35 words | [OUTCOME_3_HEADING] / [OUTCOME_3_BODY] |
-| Outcome 4 heading + body | 3–5 words + 25–35 words | [OUTCOME_4_HEADING] / [OUTCOME_4_BODY] |
-| Button | Fixed | View Case Study → [CASE_STUDY_URL] |
-
-*Every number must come from the published case study. Don't round or restate it differently.*
-
-### 7. Testimonials Carousel (4 slides)
-
-Section heading: [TESTIMONIALS_HEADING] (default: What Our Clients Say About Us)
-
-| Slide | Quote (30–80 words) | Name | Title, Company |
-|---|---|---|---|
-| 1 | [QUOTE_1] | [NAME_1] | [TITLE_1], [COMPANY_1] |
-| 2 | [QUOTE_2] | [NAME_2] | [TITLE_2], [COMPANY_2] |
-| 3 | [QUOTE_3] | [NAME_3] | [TITLE_3], [COMPANY_3] |
-| 4 | [QUOTE_4] | [NAME_4] | [TITLE_4], [COMPANY_4] |
-
-*The carousel loops on its own, so enter each quote once. Put the quote that best matches this offer in slide 1 or 2. Use quotes exactly as approved; don't edit wording.*
-
-### 8. FAQ
-
-| Field | Copy |
+| Element | How to write it |
 |---|---|
-| Side heading | [FAQ_HEADING] (default: Have questions?) |
-| Side button | [FAQ_CTA_LABEL] → [FAQ_CTA_URL] (default: Contact Us → /contact/) |
+| Doc title | `# [Page Name] — Copy Draft` |
+| Source lines (under title) | Italic: *Based on: landing-page-template.md \| Source: [brief / source docs]* and *Structure based on - [reference page URL]* |
+| Layout section, no on-page heading | H2 in bold caps: **HERO**, **FORM**, **TICKER**, **VALUE PILLARS**, **FOOTER** |
+| Section with an on-page heading | H2 with the label: **H2:** [heading text] |
+| FAQ section | H2: **SECTION: FAQ**, then **H2:** [heading] as a line inside it |
+| Fields | Inline bold label, then the copy: **H1:** … / **Subhead:** … / **Body:** … |
+| Lists | Bold label on its own line, then bullets: **Bullets:** / **Features:** |
+| Form fields | One line, pipe-separated: **Fields:** Full Name \| Email \| … |
+| Buttons and links | **CTA button:** [label] - *[where it links]* |
+| Notes for design/dev | Italic, in parentheses or on their own line: *(links to form with Tier 1 pre-selected)* |
+| Steps | 3-column table: number \| step name \| description |
+| Boxes / cards in a row | 2-column table **Title** \| **Body**, with the note *These are boxes in order from left to right, one for each row* |
+| Pricing tiers | H3 per tier, with **Snapshot:** / **Price:** / **Opens with:** / **Features:** / **CTA button:** |
+| FAQ | 2-column table **Q** \| **A** |
+| Placeholders | `[PRICE]`, `[BETA_QUOTE_1]`: caps in brackets |
+| Copy not from a source | Italic flag after it: *[INFERRED — verify]* or *[CONFIRM before publish]* |
+| Global sections | **FOOTER** with *(global — no copy needed)* |
+| Notes, open items, style check | Last section: **DRAFT NOTES** with *(not page copy)* |
 
-8–12 questions, each with a 40–80 word answer. Order them as: objections first, then how it works, then logistics/support.
+Length targets below are in italic notes. They're for the writer and get deleted from the final draft.
 
-| # | Question | Answer |
-|---|---|---|
-| 1 | [Q1: biggest objection] | [A1] |
-| 2 | [Q2: methodology term used on the page] | [A2] |
-| 3 | [Q3: quality / brand control] | [A3] |
-| 4 | [Q4] | [A4] |
-| 5 | [Q5: formats / delivery] | [A5] |
-| 6 | [Q6: define any product term used on the page] | [A6] |
-| 7 | [Q7: platforms / compatibility] | [A7] |
-| 8 | [Q8: capability example] | [A8] |
-| 9 | [Q9: maintenance / updates] | [A9] |
-| 10 | [Q10: post-engagement support] | [A10] |
-| 11 | [Q11: optional] | [A11] |
-| 12 | [Q12: how CW scopes the work] | [A12] |
+### Copy draft skeleton
 
-*Every term the page introduces (e.g., "Human-AI-Human," "Gems") should be answered by an FAQ.*
+Copy everything inside the block below into a new doc and fill every slot. Drop or add sections to match the page, and flag layout changes in DRAFT NOTES.
 
-### 9. SEO Fields (not visible on page)
+```markdown
+# [Page Name] — Copy Draft
 
-| Field | Target | Copy |
-|---|---|---|
-| Meta title | ≤60 characters | [META_TITLE] |
-| Meta description | 140–155 characters | [META_DESCRIPTION] |
-| URL slug | 2–5 words | [SLUG] |
+*Based on: landing-page-template.md | Source: [brief / source docs]*
+*Structure based on - [reference page URL]*
+
+## HERO
+
+**Eyebrow:** [3–5 words]
+**H1:** [5–8 words, ≤40 characters]
+*Alternates: [option 2] / [option 3]*
+**Subhead:** [1–2 sentences, 20–25 words: name the pain, then introduce the offer]
+**Bullets:**
+- [8–12 words]
+- [8–12 words]
+- [8–12 words]
+**CTA button:** [1–3 words] - *[links to]*
+**Scroll cue:** [label] ⬇️ - *[anchor link to section]*
+
+## FORM
+
+*[Purpose and placement, e.g., sits in the hero's right column]*
+**Form title:** [6–10 words]
+**Fields:** Company | Full Name | Title | Email | CAPTCHA
+*[Which fields are required]*
+**Submit button:** [1–3 words]
+**Confirmation message:** [1 sentence]
+
+## TICKER
+
+*Scrolling marquee. Enter once; the site loops it.*
+**Phrases:** [2–5 words] • [ ] • [ ] • [ ] • [ ] • [ ] • [ ] •
+*(7 phrases. Reuse the eyebrow and one section heading so the ticker echoes the page.)*
+
+## VALUE PILLARS
+
+*These are boxes in order from left to right, one for each row*
+
+| **Title** | **Body** |
+| --- | --- |
+| [3–5 words: approach] | [2 short paragraphs, 45–80 words total] |
+| [3–5 words: what we deliver] | [45–80 words] |
+| [3–5 words: who we are] | [45–80 words] |
+
+**CTA button:** [label] - *[links to]*
+
+## **H2:** [Process heading, 5–9 words]
+
+| | | |
+| --- | --- | --- |
+| 1 | [1-word verb] | [1–2 sentences, 15–22 words] |
+| 2 | [1-word verb] | [15–22 words] |
+| 3 | [1-word verb] | [15–22 words] |
+| 4 | [1-word verb] | [15–22 words] |
+
+**CTA button:** [label] - *[links to]*
+
+## **H2:** [Case study heading, 6–10 words]
+
+*(Or pricing: see the Pricing variant below)*
+**Client:** [Verified company name] - *links to [client work URL]*
+**Challenge:** [2 sentences, 40–50 words]
+**Result:** [2 sentences, 40–50 words]
+
+*These are boxes in order from left to right, one for each row*
+
+| **Title** | **Body** |
+| --- | --- |
+| [3–5 words] | [25–35 words: lead with a hard number if one exists] |
+| [3–5 words] | [25–35 words] |
+| [3–5 words] | [25–35 words] |
+| [3–5 words] | [25–35 words] |
+
+**CTA button:** View Case Study - *links to [case study URL]*
+*(Every number must come from the published case study, unrounded.)*
+
+## **H2:** [Testimonials heading] *(default: What Our Clients Say About Us)*
+
+*Carousel, 4 slides. Quotes run verbatim. Best-matching quote in slide 1 or 2.*
+
+| **Slide** | **Quote** | **Name / Title, Company** |
+| --- | --- | --- |
+| 1 | [30–80 words] | [Name] / [Title], [Company] |
+| 2 | [ ] | [ ] |
+| 3 | [ ] | [ ] |
+| 4 | [ ] | [ ] |
+
+## SECTION: FAQ
+
+**H2:** [FAQ heading] *(default: Have questions?)*
+**Side button:** Contact Us - *links to /contact/*
+
+| **Q** | **A** |
+| --- | --- |
+| [Biggest objection] | [40–80 words] |
+| [ ] | [ ] |
+
+*(8–12 questions: objections first, then how it works, then logistics. Every term the page introduces gets an FAQ.)*
+
+## FOOTER
+
+*(global — no copy needed)*
+
+## SEO
+
+*(not visible on page)*
+**Meta title:** [≤60 characters] *([N] characters)*
+**Meta description:** [140–155 characters] *([N] characters)*
+**URL slug:** /[2–5-words]/
+**Keywords:** "[primary]" ([where it appears]) · "[secondary]" ([where it appears])
+
+## DRAFT NOTES
+
+*(not page copy)*
+**Layout changes from the template (check with design):**
+- [Change]
+**Open before publish:**
+- [ ] [Item]
+**Style check:**
+- Negative-setup lines: [count, and which]
+- Banned clichés: [count]
+- Em dashes: [count]
+- H1 / meta title / meta description: [character counts]
+```
+
+### Pricing variant
+
+Use in place of the case study when the page sells tiers or products. Example: the AI Marketing Course page.
+
+```markdown
+## **H2:** [Pricing heading, e.g., Choose Your Path]
+
+*[Number of cards, order left to right, which one is featured]*
+**Subline:** [1 sentence]
+
+### [Tier / Product Name]
+
+**Tagline:** [1 sentence]
+**Snapshot:** [level or specs · key differentiator]
+**Price:** [PRICE]
+**Opens with:** [what this tier adds over the one before it; omit on the first tier]
+**Features:**
+- [Feature]
+**CTA button:** [label] *(links to [checkout / form with this tier pre-selected])*
+
+**Fine print:** [billing terms, what's not included]
+```
 
 ---
 
@@ -217,7 +278,8 @@ Word count targets, intro structure, the rule converting full-sentence bullets t
 
 ## Pre-Publish Checklist
 
-- [ ] Every `[SLOT]` filled; none left in brackets
+- [ ] Every slot filled; only intentional placeholders (e.g., `[PRICE]`) remain, and each is listed in DRAFT NOTES
+- [ ] Draft follows the labeling conventions; every *[INFERRED]* flag resolved
 - [ ] Section counts match the layout: 3 benefits, 7 ticker phrases, 3 pillars, 4 steps, 4 outcomes, 4 testimonials, 8–12 FAQs
 - [ ] H1 ≤40 characters; meta title ≤60; meta description 140–155
 - [ ] Every stat matches the published case study exactly
