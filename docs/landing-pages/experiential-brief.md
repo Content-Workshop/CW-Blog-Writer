@@ -1,6 +1,6 @@
 # Landing Page Brief: Experiential Studio
 
-**Status:** Interview complete; ready to draft (October 28, 2026)
+**Status:** First draft written October 28, 2026: https://claude.ai/artifact/JhpNqYmPuPPdRjoaDCX1kz
 **Template:** `docs/landing-page-template.md`
 
 ## Source: current Experiential Studio solutions page (as provided)
@@ -88,3 +88,5 @@
 - [x] Case studies: Xbox and RGC as two equal cards side by side (user handling design)
 - [ ] Confirm North America as the on-site support area
 - [ ] Experiential testimonial (may not be available; cut section if none)
+- [ ] Case study URLs for Xbox and RGC
+- [ ] Form confirmation follow-up timing
