@@ -54,10 +54,12 @@
 5. Will AI make my content sound generic?
 6. What's included in the AI Workshop Slack Community, and what happens after my free access ends? — **Answer basis:** after free period, stay for $5/month or $50/year.
 7. Can I buy seats for my team? (group discounts)
-8. Do I get lifetime access to the course material?
+8. Do I get lifetime access to the course material? — **Answer basis:** lifetime access (user believes so; confirm before publish).
 9. Is there a certificate of completion?
 
 ## Open items
+
+- [ ] Confirm lifetime course access before publish (user: "as far as I know")
 
 - [ ] Beta user quotes (user pulling these); swap in for or add to the Moulton quote
 
