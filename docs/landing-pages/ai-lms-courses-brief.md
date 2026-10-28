@@ -75,7 +75,7 @@
 - [ ] Beta user quotes (user pulling these); Moulton quote now fits (course grew out of the PANW program)
 - [ ] "Human-AI-Human Sandwich" confirmed as the official name everywhere: update the launch blog and Module 1
 - [x] Part 2 tagline: "Build the Factory Behind the Product" (from blog). Page now has zero negative-setup lines. Consider updating the course page to match.
-- [ ] Quick Wins Playbook: confirm name ("toolkit" in URL) and whether every purchase or only the bundle includes it
+- [ ] Quick Wins Playbook: name confirmed ("Quick Wins Playbook"; URL still says "toolkit"). Still need: every purchase or bundle only?
 
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
