@@ -79,7 +79,7 @@
 4. Do you handle setup and on-site support? (add-on, scoped per project)
 5. Where do you work? (North America)
 6. Can you track engagement and leads from an activation?
-7. Can you build around our existing booth or brand assets?
+7. Can you build around our existing booth or brand assets? — **Answer basis:** yes, can build around existing booths, displays, and brand assets.
 
 ## Open items
 
