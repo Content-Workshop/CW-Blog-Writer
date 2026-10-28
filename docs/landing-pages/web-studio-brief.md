@@ -79,6 +79,7 @@
 | Conversion | Keep it simple. One general project form (no per-service choice; hosting and maintenance come up on the call). Two CTA buttons: "Tell us about your project" (to form) and "Book a call" (calendar link). |
 | Hosting on this page | No prices or tiers. Describe hosting and maintenance as services and link to the hosting page (https://contentworkshop.com/web-hosting/) for plans. |
 | Core pains | (1) Outdated site that doesn't reflect the brand; (2) juggling separate vendors for design, dev, hosting; (3) managing site needs with a less technical team |
+| Case studies | Featured: ESO (most recent; B2B; 700-plus-page restructure launched on schedule). Proof points: Fox Harb'r (full design-to-hosting-and-maintenance story) and Halo (metrics). |
 
 ## Open items
 
