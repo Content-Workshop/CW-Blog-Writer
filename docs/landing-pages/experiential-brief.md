@@ -70,6 +70,7 @@
 | Buy or Rent | Leave off this page (details unconfirmed) |
 | Installation / on-site | Available as an add-on, scoped case by case (fee). Focus: North America (user believes; confirm). Copy: offer setup and on-site support without promising it's included or naming a fixed scope. |
 | Lead capabilities | Interactive Kiosks · Video Games · AR/VR · Immersive Booths. Others (Dynamic Tables, Motion Sensors, Realtime Displays, RFID trackables), all still offered, as a secondary "also" line. |
+| SEO | Primary (only) keyword: "experiential marketing" (exact word order). Copy quality wins; not forced into the H1. |
 
 ## FAQ (approved list, 7)
 
