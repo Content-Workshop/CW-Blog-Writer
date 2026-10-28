@@ -1,6 +1,6 @@
 # Landing Page Brief: AI LMS Courses
 
-**Status:** Interview in progress (started October 28, 2026)
+**Status:** Interview complete; ready to draft (October 28, 2026)
 **Template:** `docs/landing-page-template.md`
 
 ## Confirmed
@@ -55,7 +55,7 @@
 6. What's included in the AI Workshop Slack Community, and what happens after my free access ends? — **Answer basis:** after free period, stay for $5/month or $50/year.
 7. Can I buy seats for my team? (group discounts)
 8. Do I get lifetime access to the course material? — **Answer basis:** lifetime access (user believes so; confirm before publish).
-9. Is there a certificate of completion?
+9. Is there a certificate of completion? — **Answer basis:** one certificate per course (Part 1 and Part 2 each).
 
 ## Open items
 
@@ -66,4 +66,4 @@
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
 - [ ] Confirm group discount tiers are final (source said "maybe")
-- [ ] Style: "seamlessly" (×2 in source) to rephrase; "Build the factory, not just the product" and "Automation moves data; AI makes meaning" are both negative-setup / contrast lines: pick one as the page's allowed exception
+- [x] Style: rephrase "seamlessly" (×2 in source). "Build the factory, not just the product" is the page's one allowed negative-setup line (established course tagline). "Automation moves data; AI makes meaning" is a parallel contrast with no negation, so it doesn't count against the limit.
