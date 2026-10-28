@@ -27,7 +27,7 @@
 - AI as a professional force multiplier rather than a magic button
 - Operator: "Master your tools and start executing."
 - Architect: "Build the factory, not just the product."
-- Shared goal: make marketing teams the AI epicenter of their company
+- **Bundle promise:** move from isolated, single-use AI tasks to orchestrating connected marketing systems that blend human creativity, AI reasoning, and workflow automation, making your team the AI epicenter of your company.
 
 ## Course content
 
@@ -50,6 +50,5 @@
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
 - [ ] Confirm group discount tiers are final (source said "maybe")
 - [ ] Team inquiry form fields: what to collect (company, name, email, number of licenses, which course/bundle?)
-- [ ] Operator's stated goal duplicates Architect's ("orchestrating connected systems"): confirm Operator's real goal
 - [ ] Name check: "Human Sandwich" (course) vs. "Human-AI-Human" (AI Studio page): same concept? Which name on this page?
 - [ ] Style: "seamlessly" (×2 in source) to rephrase; "Build the factory, not just the product" and "Automation moves data; AI makes meaning" are both negative-setup / contrast lines: pick one as the page's allowed exception
