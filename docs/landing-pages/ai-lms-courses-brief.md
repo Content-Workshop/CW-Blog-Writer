@@ -17,7 +17,7 @@
 | Proof (current) | David Moulton quote (Director of Content and Thought Leadership, Palo Alto Networks), placeholder until beta quotes arrive |
 | Buyers | Individuals and marketing leaders buying for teams |
 | CTA | Primary: single checkout for individual purchases. Secondary: team inquiry form for group coupon codes. |
-| Group pricing (proposed, "maybe") | 10% off for 3–5 seats; 20% off for 6+ seats. Buyers reach out via inquiry form to get a coupon code. |
+| Group pricing (confirmed) | 10% off for 3–5 seats; 20% off for 6+ seats. Buyers reach out via inquiry form to get a coupon code. |
 | Team inquiry form | Company*, Full Name*, Title*, Email*, Number of seats*, Option (Part 1 / Part 2 / Bundle), CAPTCHA. Terminology: always "seats," never "licenses." |
 | Primary traffic | Conference, but copy stays evergreen: no event name, dates, or show-specific offers |
 | SEO | Primary keyword: "AI marketing course" (exact word order, exact-match once). Secondary: "AI training for marketing teams" (fits team buyers). Copy quality wins: keyword goes in meta title, meta description, slug, and one natural spot in body or FAQ; never forced into the H1. |
@@ -52,7 +52,7 @@
 - **Proof (Palo Alto Networks, Unit 42 and Cortex marketing teams):** a private version of the course. AI readiness assessment, then a 12-week program with twice-weekly sessions centered on Google Gemini in their Workspace environment, also covering ChatGPT, Claude, and Notion AI. 95% of trainees felt prepared to keep learning as tools evolve. Time saved: 30% saved 3–4 hrs/week, 45% saved 5–8, 15% saved 9+. Internal AI readiness score moved from a 79 benchmark to 91. Case study: https://contentworkshop.com/work/palo-alto-networks-ai-training/
 - **Format:** self-paced video lectures, live demos, quizzes, hands-on activities.
 - **Order:** can buy each course alone, "but the order matters either way."
-- **URLs:** Operator /courses/ai-marketing-operator/ · Architect /courses/ai-marketing-architect/ · Bundle /groups/architecting-the-ai-marketing-ecosystem-bundle/
+- **URLs (confirmed as the button links):** Operator /courses/ai-marketing-operator/ · Architect /courses/ai-marketing-architect/ · Bundle /groups/architecting-the-ai-marketing-ecosystem-bundle/
 - **Community:** home of the "Quick Wins Playbook" (link: /quick-wins-toolkit-teaser/). The bundle "hands you a playbook, a working prompt library, and a quick-wins guide, right off the bat."
 - **Part 2 heading in blog:** "Build the Factory Behind the Product"
 
@@ -65,12 +65,12 @@
 5. Will AI make my content sound generic?
 6. What's included in the AI Workshop Slack Community, and what happens after my free access ends? — **Answer basis:** after free period, stay for $5/month or $50/year.
 7. Can I buy seats for my team? (group discounts)
-8. Do I get lifetime access to the course material? — **Answer basis:** lifetime access (user believes so; confirm before publish).
+8. Do I get lifetime access to the course material? — **Answer basis:** lifetime access (confirmed).
 9. Is there a certificate of completion? — **Answer basis:** one certificate per course (Part 1 and Part 2 each).
 
 ## Open items
 
-- [ ] Confirm lifetime course access before publish (user: "as far as I know")
+- [x] Lifetime course access confirmed
 
 - [ ] Beta user quotes (user pulling these); Moulton quote now fits (course grew out of the PANW program)
 - [ ] "Human-AI-Human Sandwich" confirmed as the official name everywhere: update the launch blog and Module 1
@@ -79,5 +79,5 @@
 
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
-- [ ] Confirm group discount tiers are final (source said "maybe")
+- [x] Group discount tiers confirmed (10% for 3–5 seats, 20% for 6+)
 - [x] Style: rephrase "seamlessly" (×2 in source). "Build the factory, not just the product" is the page's one allowed negative-setup line (established course tagline). "Automation moves data; AI makes meaning" is a parallel contrast with no negation, so it doesn't count against the limit.
