@@ -82,7 +82,7 @@
 | Case studies | Featured: ESO (most recent; B2B; 700-plus-page restructure launched on schedule). Proof points: Fox Harb'r (full design-to-hosting-and-maintenance story) and Halo (metrics). |
 | Capabilities | All 10 still offered (UX/UI Design, Web Development, Landing Pages, Native Apps, Web Apps, E-commerce, Design System, Mobile Optimization, WordPress Design, More) |
 | Platform | Lean WordPress (WordPress-first wording; Shopify/other platforms not excluded, e.g., Halo) |
-| Maintenance offerings | (1) Maintenance plans: WordPress core and plugin updates, security patches, content changes. (2) Uptime monitoring and update packages: lighter option covering basic updates/patches. Separate from hosting (hosting excludes core/plugin updates and maintenance). |
+| Maintenance offerings | (1) Maintenance plans: WordPress core and plugin updates, security patches, content changes. (2) Uptime monitoring and update packages: lighter option covering basic updates/patches. Separate from hosting (hosting excludes core/plugin updates and maintenance). Describe generically; no official plan names. |
 | Management services | Hosting, maintenance, and security updates get their own section (services grid: Design · Development · Maintenance & Security · Hosting), not mixed into the capabilities list. Hosting links to /web-hosting/. |
 
 ## Open items
