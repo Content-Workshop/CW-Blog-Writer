@@ -75,7 +75,7 @@
 
 1. What kinds of activations do you build?
 2. Can you build for trade shows and conferences?
-3. How far ahead should we start planning?
+3. How far ahead should we start planning? — **Answer basis:** depends on scope; reach out as early as possible. No fixed lead time.
 4. Do you handle setup and on-site support? (add-on, scoped per project)
 5. Where do you work? (North America)
 6. Can you track engagement and leads from an activation?
