@@ -47,6 +47,7 @@
 | Field | Answer |
 |---|---|
 | Page type | Sendable web services page (a link to send people), covering design, development, maintenance, and hosting |
+| Audience | Anyone we send it to: prospects after a sales call, existing clients being upsold to web work, inbound "do you do websites?" leads. Copy must work cold or warm. |
 
 ## Open items
 
