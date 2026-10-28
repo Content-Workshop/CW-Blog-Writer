@@ -1,7 +1,7 @@
 # Content Workshop Landing Page Template
 
 **Source page:** https://contentworkshop.com/ai-landing-page-with-form/ (AI Studio)
-**Created:** October 28, 2026 · **Updated:** October 28, 2026 (labeling conventions added)
+**Created:** October 28, 2026 · **Updated:** October 28, 2026 (labeling conventions added; FAQ answers shortened to 15–35 words)
 
 **How to use this:** Copy the **Copy draft skeleton** into a new doc, follow the **Labeling conventions**, and fill every slot. Length targets come from the AI Studio page, so a filled page fits the existing layout without design changes. Each section's fields are fixed by the page design: keep the counts (3 hero benefits, 3 pillars, 4 steps, 4 outcomes, 4 testimonials). If you need a different count, check with design first. The AI Studio copy is kept below as a worked example.
 
@@ -152,10 +152,10 @@ Copy everything inside the block below into a new doc and fill every slot. Drop 
 
 | **Q** | **A** |
 | --- | --- |
-| [Biggest objection] | [40–80 words] |
+| [Biggest objection] | [15–35 words] |
 | [ ] | [ ] |
 
-*(8–12 questions: objections first, then how it works, then logistics. Every term the page introduces gets an FAQ.)*
+*(8–12 questions: objections first, then how it works, then logistics. Answers 15–35 words: answer first, one supporting fact, no restating the question. Every term the page introduces gets an FAQ.)*
 
 ## FOOTER
 
@@ -281,6 +281,7 @@ Word count targets, intro structure, the rule converting full-sentence bullets t
 - [ ] Every slot filled; only intentional placeholders (e.g., `[PRICE]`) remain, and each is listed in DRAFT NOTES
 - [ ] Draft follows the labeling conventions; every *[INFERRED]* flag resolved
 - [ ] Section counts match the layout: 3 benefits, 7 ticker phrases, 3 pillars, 4 steps, 4 outcomes, 4 testimonials, 8–12 FAQs
+- [ ] FAQ answers 15–35 words each
 - [ ] H1 ≤40 characters; meta title ≤60; meta description 140–155
 - [ ] Every stat matches the published case study exactly
 - [ ] Every testimonial name, title, and company verified; quotes used exactly as approved
