@@ -13,6 +13,7 @@
 | Purchase options | Part 1, Part 2, or bundle |
 | Primary offer | Bundle (saves $297); Parts 1 and 2 shown as alternatives |
 | Prices | TBD: use `[PRICE]` placeholders |
+| Format | Self-paced |
 | Buyers | Individuals and marketing leaders buying for teams |
 | CTA | Primary: single checkout for individual purchases. Secondary: team inquiry form for group coupon codes. |
 | Group pricing (proposed, "maybe") | 10% off for 3–5 licenses; 20% off for 6+. Buyers reach out via inquiry form to get a coupon code. |
@@ -43,7 +44,7 @@
 ## Open items
 
 - [ ] Prices for Part 1, Part 2, bundle
-- [ ] Course length / time commitment
+- [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
 - [ ] Slack access length for bundle buyers (3 months? 6?)
 - [ ] Confirm group discount tiers are final (source said "maybe")
 - [ ] Team inquiry form fields: what to collect (company, name, email, number of licenses, which course/bundle?)
