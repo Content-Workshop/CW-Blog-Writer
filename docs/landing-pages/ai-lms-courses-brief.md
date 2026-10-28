@@ -17,7 +17,8 @@
 | Proof (current) | David Moulton quote (Director of Content and Thought Leadership, Palo Alto Networks), placeholder until beta quotes arrive |
 | Buyers | Individuals and marketing leaders buying for teams |
 | CTA | Primary: single checkout for individual purchases. Secondary: team inquiry form for group coupon codes. |
-| Group pricing (proposed, "maybe") | 10% off for 3–5 licenses; 20% off for 6+. Buyers reach out via inquiry form to get a coupon code. |
+| Group pricing (proposed, "maybe") | 10% off for 3–5 seats; 20% off for 6+ seats. Buyers reach out via inquiry form to get a coupon code. |
+| Team inquiry form | Company*, Full Name*, Title*, Email*, Number of seats*, Option (Part 1 / Part 2 / Bundle), CAPTCHA. Terminology: always "seats," never "licenses." |
 | Community | AI Workshop Slack Community: free for 3 months with Part 1 or Part 2; 6 months with the bundle. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Join link in intro email. |
 
 ## Pain / positioning language (from course copy)
@@ -49,5 +50,4 @@
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
 - [ ] Confirm group discount tiers are final (source said "maybe")
-- [ ] Team inquiry form fields: what to collect (company, name, email, number of licenses, which course/bundle?)
 - [ ] Style: "seamlessly" (×2 in source) to rephrase; "Build the factory, not just the product" and "Automation moves data; AI makes meaning" are both negative-setup / contrast lines: pick one as the page's allowed exception
