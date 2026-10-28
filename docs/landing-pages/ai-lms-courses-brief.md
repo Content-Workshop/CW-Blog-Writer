@@ -45,6 +45,18 @@
 6. **Automation vs. AI & Workflow Mapping:** "Automation moves data; AI makes meaning." 5-stage architecture; handoff logic between platforms and agents.
 7. **Implementation, Management, & Ethics:** Minimum Viable Output (MVO), agent maintenance, mandatory "Authenticity Filter."
 
+## FAQ (approved list, 9)
+
+1. Do I need to take Part 1 before Part 2?
+2. Which option is right for me: Part 1, Part 2, or the bundle?
+3. Do I need technical or coding skills?
+4. Which AI tools and platforms does the course cover?
+5. Will AI make my content sound generic?
+6. What's included in the AI Workshop Slack Community, and what happens after my free access ends?
+7. Can I buy seats for my team? (group discounts)
+8. Do I get lifetime access to the course material?
+9. Is there a certificate of completion?
+
 ## Open items
 
 - [ ] Beta user quotes (user pulling these); swap in for or add to the Moulton quote
