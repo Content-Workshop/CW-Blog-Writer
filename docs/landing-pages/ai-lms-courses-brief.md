@@ -66,6 +66,8 @@
 
 ## FAQ (approved list, 9)
 
+*Answers shortened to 15–35 words to match the updated template (October 28, 2026). Keywords kept in FAQ 2 and FAQ 7.*
+
 1. Do I need to take Part 1 before Part 2?
 2. Which option is right for me: Part 1, Part 2, or the bundle?
 3. Do I need technical or coding skills?
