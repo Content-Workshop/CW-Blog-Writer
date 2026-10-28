@@ -29,7 +29,7 @@
 - generic, beige content
 - AI as a professional force multiplier rather than a magic button
 - Operator: "Master your tools and start executing."
-- Architect: "Build the factory, not just the product."
+- Architect: "Build the Factory Behind the Product." (chosen over course copy "Build the factory, not just the product.")
 - **Bundle promise:** move from isolated, single-use AI tasks to orchestrating connected marketing systems that blend human creativity, AI reasoning, and workflow automation, making your team the AI epicenter of your company.
 
 ## Course content
@@ -74,7 +74,7 @@
 
 - [ ] Beta user quotes (user pulling these); Moulton quote now fits (course grew out of the PANW program)
 - [ ] "Human-AI-Human Sandwich" confirmed as the official name everywhere: update the launch blog and Module 1
-- [ ] Part 2 tagline: blog "Build the Factory Behind the Product" (no negative-setup) vs. course "Build the factory, not just the product"
+- [x] Part 2 tagline: "Build the Factory Behind the Product" (from blog). Page now has zero negative-setup lines. Consider updating the course page to match.
 - [ ] Quick Wins Playbook: confirm name ("toolkit" in URL) and whether every purchase or only the bundle includes it
 
 - [ ] Prices for Part 1, Part 2, bundle
