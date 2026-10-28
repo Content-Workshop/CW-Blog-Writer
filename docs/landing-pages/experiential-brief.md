@@ -35,6 +35,8 @@
 | Field | Answer |
 |---|---|
 | Offer | Experiential Studio (IRL + digital brand experiences for events) |
+| Page goal | Lead capture via form |
+| Focus | Trade shows and events (more focused than the current solutions page) |
 
 ## Open items
 
