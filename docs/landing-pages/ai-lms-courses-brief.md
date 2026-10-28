@@ -50,7 +50,7 @@
 1. Do I need to take Part 1 before Part 2?
 2. Which option is right for me: Part 1, Part 2, or the bundle?
 3. Do I need technical or coding skills?
-4. Which AI tools and platforms does the course cover?
+4. Which AI tools and platforms does the course cover? — **Answer basis:** mostly tool-agnostic; includes Claude-, Gemini-, and Notion-specific demos.
 5. Will AI make my content sound generic?
 6. What's included in the AI Workshop Slack Community, and what happens after my free access ends?
 7. Can I buy seats for my team? (group discounts)
