@@ -80,4 +80,4 @@
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
 - [x] Group discount tiers confirmed (10% for 3–5 seats, 20% for 6+)
-- [x] Style: rephrase "seamlessly" (×2 in source). "Build the factory, not just the product" is the page's one allowed negative-setup line (established course tagline). "Automation moves data; AI makes meaning" is a parallel contrast with no negation, so it doesn't count against the limit.
+- [x] Style: "seamlessly" (×2 in source) rephrased. Zero negative-setup lines after the Part 2 tagline change. "Automation moves data; AI makes meaning" is a parallel contrast and doesn't count.
