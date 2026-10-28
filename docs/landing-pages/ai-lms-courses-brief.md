@@ -21,7 +21,7 @@
 | Team inquiry form | Company*, Full Name*, Title*, Email*, Number of seats*, Option (Part 1 / Part 2 / Bundle), CAPTCHA. Terminology: always "seats," never "licenses." |
 | Primary traffic | Conference, but copy stays evergreen: no event name, dates, or show-specific offers |
 | SEO | Primary keyword: "AI marketing course" (exact word order, exact-match once). Secondary: "AI training for marketing teams" (fits team buyers). Copy quality wins: keyword goes in meta title, meta description, slug, and one natural spot in body or FAQ; never forced into the H1. |
-| Community | AI Workshop Slack Community: free for 3 months with Part 1 or Part 2; 6 months with the bundle. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Join link in intro email. After free period: $5/month or $50/year. |
+| Community | AI Workshop Slack Community: free for 3 months with Part 1 or Part 2; 6 months with the bundle. Includes templates, prompt library, real agent examples, live room of operators and architects trading workflows. Home of the Quick Wins Playbook (included with every purchase). Join link in intro email. After free period: $5/month or $50/year. |
 
 ## Pain / positioning language (from course copy)
 
@@ -75,7 +75,7 @@
 - [ ] Beta user quotes (user pulling these); Moulton quote now fits (course grew out of the PANW program)
 - [ ] "Human-AI-Human Sandwich" confirmed as the official name everywhere: update the launch blog and Module 1
 - [x] Part 2 tagline: "Build the Factory Behind the Product" (from blog). Page now has zero negative-setup lines. Consider updating the course page to match.
-- [ ] Quick Wins Playbook: name confirmed ("Quick Wins Playbook"; URL still says "toolkit"). Still need: every purchase or bundle only?
+- [x] Quick Wins Playbook: name confirmed; included with every purchase (Part 1, Part 2, bundle). Added to all pricing cards, Slack section, and FAQ. Site URL still says "toolkit."
 
 - [ ] Prices for Part 1, Part 2, bundle
 - [ ] Course length / time commitment (unknown; leave out of copy until confirmed)
