@@ -96,7 +96,7 @@
 5. Will our team be able to update the site ourselves? — **Answer basis:** yes; reusable blocks + training (Fox Harb'r video tutorials).
 6. What's the difference between hosting and maintenance? — **Answer basis:** hosting = infrastructure (backups, SSL, Cloudflare, uptime monitoring, domain); maintenance = core/plugin updates, security patches, content changes.
 7. Can we use you for hosting or maintenance only, without a redesign? — **Answer basis:** yes; hosting or maintenance only is fine, including sites CW didn't build.
-8. How long does a website project take?
+8. How long does a website project take? — **Answer basis:** depends on scope; no fixed timeline.
 
 ## Open items
 
