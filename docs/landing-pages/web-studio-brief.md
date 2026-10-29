@@ -1,6 +1,6 @@
 # Landing Page Brief: Web Studio
 
-**Status:** Interview in progress (started October 28, 2026)
+**Status:** Interview complete; ready to draft (October 29, 2026)
 **Template:** `docs/landing-page-template.md`
 
 ## Source 1: current Web Studio solutions page (as provided)
@@ -84,6 +84,7 @@
 | Platform | Lean WordPress (WordPress-first wording; Shopify/other platforms not excluded, e.g., Halo) |
 | Maintenance offerings | (1) Maintenance plans: WordPress core and plugin updates, security patches, content changes. (2) Uptime monitoring and update packages: lighter option covering basic updates/patches. Separate from hosting (hosting excludes core/plugin updates and maintenance). Describe generically; no official plan names. |
 | SEO | Primary: "web design services" (exact word order). Also make sure "web development" is mentioned prominently (secondary: meta description, a heading, services grid). Copy quality wins; not forced into the H1. |
+| Testimonials | Dropped from this page (no web testimonials) |
 | Management services | Hosting, maintenance, and security updates get their own section (services grid: Design · Development · Maintenance & Security · Hosting), not mixed into the capabilities list. Hosting links to /web-hosting/. |
 
 ## FAQ (approved list, 8)
