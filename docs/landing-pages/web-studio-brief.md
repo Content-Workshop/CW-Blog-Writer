@@ -85,6 +85,19 @@
 | Maintenance offerings | (1) Maintenance plans: WordPress core and plugin updates, security patches, content changes. (2) Uptime monitoring and update packages: lighter option covering basic updates/patches. Separate from hosting (hosting excludes core/plugin updates and maintenance). Describe generically; no official plan names. |
 | Management services | Hosting, maintenance, and security updates get their own section (services grid: Design · Development · Maintenance & Security · Hosting), not mixed into the capabilities list. Hosting links to /web-hosting/. |
 
+## FAQ (approved list, 8)
+
+*Answers 15–35 words (template rule).*
+
+1. Do you only build on WordPress? — **Answer basis:** WordPress-first; other platforms (e.g., Shopify for Halo) when the project calls for it.
+2. Can you refresh our existing site instead of rebuilding it? — **Answer basis:** yes (Refreshes service).
+3. Can you move our site from another platform? — **Answer basis:** yes, migration to WordPress.
+4. Can you connect our site to tools like our CRM or booking system? — **Answer basis:** yes; API integrations (Fox Harb'r booking + CRM).
+5. Will our team be able to update the site ourselves? — **Answer basis:** yes; reusable blocks + training (Fox Harb'r video tutorials).
+6. What's the difference between hosting and maintenance? — **Answer basis:** hosting = infrastructure (backups, SSL, Cloudflare, uptime monitoring, domain); maintenance = core/plugin updates, security patches, content changes.
+7. Can we use you for hosting or maintenance only, without a redesign?
+8. How long does a website project take?
+
 ## Open items
 
 - [ ] Updated hosting prices (needed for the hosting page itself, not this page)
