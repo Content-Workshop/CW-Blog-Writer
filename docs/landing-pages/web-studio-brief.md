@@ -83,6 +83,7 @@
 | Capabilities | All 10 still offered (UX/UI Design, Web Development, Landing Pages, Native Apps, Web Apps, E-commerce, Design System, Mobile Optimization, WordPress Design, More) |
 | Platform | Lean WordPress (WordPress-first wording; Shopify/other platforms not excluded, e.g., Halo) |
 | Maintenance offerings | (1) Maintenance plans: WordPress core and plugin updates, security patches, content changes. (2) Uptime monitoring and update packages: lighter option covering basic updates/patches. Separate from hosting (hosting excludes core/plugin updates and maintenance). Describe generically; no official plan names. |
+| SEO | Primary: "web design services" (exact word order). Also make sure "web development" is mentioned prominently (secondary: meta description, a heading, services grid). Copy quality wins; not forced into the H1. |
 | Management services | Hosting, maintenance, and security updates get their own section (services grid: Design · Development · Maintenance & Security · Hosting), not mixed into the capabilities list. Hosting links to /web-hosting/. |
 
 ## FAQ (approved list, 8)
