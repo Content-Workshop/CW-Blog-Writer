@@ -1,6 +1,6 @@
 # Landing Page Brief: Web Studio
 
-**Status:** Interview complete; ready to draft (October 29, 2026)
+**Status:** First draft written October 29, 2026: https://claude.ai/artifact/RJgptPXjrrBxU1g6yDwuMH
 **Template:** `docs/landing-page-template.md`
 
 ## Source 1: current Web Studio solutions page (as provided)
@@ -104,3 +104,6 @@
 
 - [ ] Updated hosting prices (needed for the hosting page itself, not this page)
 - [ ] Booking link for "Book a call"
+- [ ] Verify ESO and Halo quotes/numbers against live case study pages
+- [ ] Fox Harb'r URL mismatch (/work/fox-harbr/ vs /work/fox-harbr-resort/)
+- [ ] Halo page: tagged Web Studio, text says Experiential Studio
