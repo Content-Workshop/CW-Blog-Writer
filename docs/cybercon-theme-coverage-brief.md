@@ -127,7 +127,7 @@ Use this for **scale** and to **avoid duplicates**, not as this brand's answers.
 | 2. Making AI part of how the team works | Partly covered | New post: *Your Messaging Belongs in a Repo* |
 | 3. Getting found when buyers ask AI | Covered | Promote existing post |
 | 4. Buyers trust proof and peers | Covered | None |
-| 5. Proving marketing drives revenue | Partly covered | New post: *Plan the Content Before You Book the Booth* |
+| 5. Proving marketing drives revenue | Partly covered | New post: *Plan the Content Before the Event* (booths, launches and hosted events) |
 | 6. Specialized GTM and running the org | Not ours | None |
 
 Result: 3 new posts plus 1 optional, and no updates. Aim for the same small scale. If this brand partly covers the same problem as CW, choose an angle that doesn't overlap the CW post.
