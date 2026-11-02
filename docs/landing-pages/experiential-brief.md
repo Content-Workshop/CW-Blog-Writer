@@ -69,7 +69,7 @@
 | Tracking | Depends on the activation. Copy says tracking is scoped to each activation and points to case study examples (RGC quarterly usage reports to OLG, Xbox tracking and reporting, Chudleigh's guest insights). No blanket promise of specific metrics. |
 | Buy or Rent | Leave off this page (details unconfirmed) |
 | Installation / on-site | Available as an add-on, scoped case by case (fee). Focus: North America (user believes; confirm). Copy: offer setup and on-site support without promising it's included or naming a fixed scope. |
-| Lead capabilities | Interactive Kiosks · Video Games · AR/VR · Immersive Booths, listed first in one "What we build" line under the value pillars (separate What We Build section removed November 2, 2026, to stay within the template). Others (Dynamic Tables, Motion Sensors, Realtime Displays, RFID trackables), all still offered, as a secondary "also" line. |
+| Lead capabilities | Interactive Kiosks · Video Games · AR/VR · Immersive Booths, listed first in one "What we build" line under the value pillars (separate What We Build section removed November 2, 2026, to stay within the template). Others (Dynamic Tables, Motion Sensors, Realtime Displays, RFID trackables), all still offered, follow in the same line. |
 | SEO | Primary (only) keyword: "experiential marketing" (exact word order). Copy quality wins; not forced into the H1. |
 | Testimonials | Placeholder only; an experiential testimonial may not be available. Section can be cut if none comes in. |
 
