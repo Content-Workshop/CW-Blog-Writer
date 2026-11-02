@@ -1,7 +1,7 @@
 # Content Workshop Landing Page Template
 
 **Source page:** https://contentworkshop.com/ai-landing-page-with-form/ (AI Studio)
-**Created:** October 28, 2026 · **Updated:** October 28, 2026 (labeling conventions added; FAQ answers shortened to 15–35 words)
+**Created:** October 28, 2026 · **Updated:** November 2, 2026 (skeleton limited to fields on the original AI Studio page; no additions without asking)
 
 **How to use this:** Copy the **Copy draft skeleton** into a new doc, follow the **Labeling conventions**, and fill every slot. Length targets come from the AI Studio page, so a filled page fits the existing layout without design changes. Each section's fields are fixed by the page design: keep the counts (3 hero benefits, 3 pillars, 4 steps, 4 outcomes, 4 testimonials). If you need a different count, check with design first. The AI Studio copy is kept below as a worked example.
 
@@ -56,7 +56,7 @@ Length targets below are in italic notes. They're for the writer and get deleted
 
 ### Copy draft skeleton
 
-Copy everything inside the block below into a new doc and fill every slot. Drop or add sections to match the page, and flag layout changes in DRAFT NOTES.
+Copy everything inside the block below into a new doc and fill every slot. Every section and field maps to the original AI Studio page. **Don't add sections, fields, or buttons beyond this skeleton without asking the requester first.** Removing a section is fine when the requester asks. Record every approved change in DRAFT NOTES.
 
 ```markdown
 # [Page Name] — Copy Draft
@@ -74,8 +74,6 @@ Copy everything inside the block below into a new doc and fill every slot. Drop 
 - [8–12 words]
 - [8–12 words]
 - [8–12 words]
-**CTA button:** [1–3 words] - *[links to]*
-**Scroll cue:** [label] ⬇️ - *[anchor link to section]*
 
 ## FORM
 
@@ -84,7 +82,6 @@ Copy everything inside the block below into a new doc and fill every slot. Drop 
 **Fields:** Company | Full Name | Title | Email | CAPTCHA
 *[Which fields are required]*
 **Submit button:** [1–3 words]
-**Confirmation message:** [1 sentence]
 
 ## TICKER
 
@@ -112,8 +109,6 @@ Copy everything inside the block below into a new doc and fill every slot. Drop 
 | 2 | [1-word verb] | [15–22 words] |
 | 3 | [1-word verb] | [15–22 words] |
 | 4 | [1-word verb] | [15–22 words] |
-
-**CTA button:** [label] - *[links to]*
 
 ## **H2:** [Case study heading, 6–10 words]
 
@@ -185,7 +180,7 @@ Copy everything inside the block below into a new doc and fill every slot. Drop 
 
 ### Pricing variant
 
-Use in place of the case study when the page sells tiers or products. Example: the AI Marketing Course page.
+Not on the original AI Studio page. Use it only when the requester approves pricing on the page, in place of or alongside the case study. Example: the AI Marketing Course page.
 
 ```markdown
 ## **H2:** [Pricing heading, e.g., Choose Your Path]
