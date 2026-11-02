@@ -89,6 +89,10 @@
 
 Removed elements not on the original AI Studio page: hero CTA button and scroll cue, form confirmation message, "What we build" line, process CTA button, "See all Experiential Studio work" link. Kept: two case study cards (user's choice).
 
+## Redundancy pass (November 2, 2026)
+
+Ticker no longer repeats hero bullets; existing-assets, on-site support, and tracking each stated once in full (pillar or FAQ) instead of three times; FAQ 1 and FAQ 2 no longer repeat the bullets or subhead. Only one [CONFIRM North America] flag left (FAQ 5).
+
 ## Open items
 
 - [x] Case studies: Xbox and RGC as two equal cards side by side (user handling design)
