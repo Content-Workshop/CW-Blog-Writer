@@ -93,6 +93,15 @@ Removed elements not on the original AI Studio page: hero CTA button and scroll 
 
 Ticker no longer repeats hero bullets; existing-assets, on-site support, and tracking each stated once in full (pillar or FAQ) instead of three times; FAQ 1 and FAQ 2 no longer repeat the bullets or subhead. Only one [CONFIRM North America] flag left (FAQ 5).
 
+## Critical pass (November 2, 2026), all applied
+
+- H1: "Make Your Brand the One They Remember" (user choice); "Zig Where Others Zag" moved to alternates and stays in the ticker.
+- Eyebrow: "Experiential Marketing Activations" (keyword in visible copy).
+- Pillar 1: "Storytelling, In Real Life" restores the content-team-first / IRL storytelling angle.
+- FAQ 2: no longer claims many activations are trade shows (no trade show case study); now cites retail floors and casinos.
+- Process H2: "From First Sketch to Show Floor" (teardown is an add-on, not a step).
+- Subhead, bullet 3, Design and Build steps, ticker, RGC hyphenation tightened. "Remember" kept to the H1 only.
+
 ## Open items
 
 - [x] Case studies: Xbox and RGC as two equal cards side by side (user handling design)
