@@ -109,6 +109,15 @@
 - Removed: "Prefer to talk? Book a call" under form, form confirmation message, process CTA.
 - Ticker: "No jargony word salad" changed to "Easy to update" (the storefront body now uses the word-salad line).
 
+## Critical pass (November 3, 2026), all 14 applied
+
+- Services now listed once in full (grid); subhead, hero bullets, and pillar 2 no longer repeat the list.
+- Hero bullets: content-first build, room to grow, ESO 700-plus-page proof.
+- FAQs 4, 5, 7 no longer repeat the Development box, pillar 3, or services subline; FAQ 8 points to Book a Call.
+- ESO result no longer repeats the On-Time Launch box.
+- Storefront H2 "What We Build for Your Brand"; new body. Case study H2 "Web Development for Complex, Content-Heavy Sites" (keyword). Eyebrow "Web Design & Development".
+- Form title "Let's talk about your website."; field "What do you need?". Ticker: "Content-first design".
+
 ## Open items
 
 - [ ] Updated hosting prices (needed for the hosting page itself, not this page)
