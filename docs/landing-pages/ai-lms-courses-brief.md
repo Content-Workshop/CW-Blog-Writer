@@ -64,6 +64,11 @@
 - Pricing merged into the curriculum section: steps table, then pricing cards, under one H2 ("From Panic-Prompting to a Connected AI Ecosystem"). The separate "Choose Your Path" H2 is gone.
 - "Beige" used once only (ticker); removed from FAQ 5. Susan: it reads as AI-written.
 
+## Template and critical pass (November 3, 2026)
+
+- Template check: user kept all additions (team form, pricing cards, hero button and scroll cue, form supporting line, pricing subline, team line, Slack section). User removed the form confirmation message.
+- Critical pass, all 12 applied: eyebrow "AI Marketing Course" (keyword visible); hero bullets now proof (12-week program for an enterprise marketing team; no Palo Alto name in the hero, per user), format, and included resources instead of repeating the curriculum; "self-paced" stated once (bullet 2); Step 1 and Step 3 no longer repeat pillars 1 and 2; Slack terms stated once (FAQ 6), section fine print keeps the join-link line; FAQ 7 drops tiers (form has them); case study Result no longer repeats the multi-tool box.
+
 ## FAQ (approved list, 9)
 
 *Answers shortened to 15–35 words to match the updated template (October 28, 2026). Keywords kept in FAQ 2 and FAQ 7.*
