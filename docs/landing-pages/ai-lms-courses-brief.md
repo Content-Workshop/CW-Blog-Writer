@@ -71,7 +71,7 @@
 
 ## Second critical pass (November 3, 2026)
 
-Applied: hero bullet 1 drops "12-week" (case study has it); process H2 "Seven Modules, Two Courses"; bundle card "Opens with: Everything in Part 1 and Part 2." with the duplicate feature bullet removed; case study Challenge now a real challenge (standardized way to apply AI to high-stakes work); FAQ 7 drops the coupon-code repeat; FAQ 6 stands alone; ticker swaps in "Prompts to playbooks" and "Taught by former professors". Skipped: proposed hero bullet 3 ("Leave with working agents…"), user found it an over-promise. Bullet 3 still under review.
+Applied: hero bullet 1 drops "12-week" (case study has it); process H2 "Seven Modules, Two Courses"; bundle card "Opens with: Everything in Part 1 and Part 2." with the duplicate feature bullet removed; case study Challenge now a real challenge (standardized way to apply AI to high-stakes work); FAQ 7 drops the coupon-code repeat; FAQ 6 stands alone; ticker swaps in "Prompts to playbooks" and "Taught by former professors". Skipped: proposed hero bullet 3 ("Leave with working agents…"), user found it an over-promise. Bullet 3 stays as is ("Templates, a prompt library, and a community of marketers included."), user decision.
 
 ## FAQ (approved list, 9)
 
