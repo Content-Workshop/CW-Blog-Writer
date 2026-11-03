@@ -100,6 +100,15 @@
 7. Can we use you for hosting or maintenance only, without a redesign? — **Answer basis:** yes; hosting or maintenance only is fine, including sites CW didn't build.
 8. How long does a website project take? — **Answer basis:** depends on scope; no fixed timeline.
 
+## Review round 1 (November 3, 2026)
+
+- Process section removed ("no one cares about that").
+- "Already have a site?" folded into the services subline.
+- New storefront section with capability pills, modeled on the current Web Studio page band (headline, body, label, pills; no buttons). Approved addition.
+- Services grid kept (approved addition). Two hero buttons kept (user request).
+- Removed: "Prefer to talk? Book a call" under form, form confirmation message, process CTA.
+- Ticker: "No jargony word salad" changed to "Easy to update" (the storefront body now uses the word-salad line).
+
 ## Open items
 
 - [ ] Updated hosting prices (needed for the hosting page itself, not this page)
