@@ -36,6 +36,13 @@ If the brand's audience or offerings aren't clear from the offerings page, say s
 
 ---
 
+## Reviewer guidance to carry forward
+
+- **David Ebner (Nov 2026), on the Content Workshop ideas:** they look good, but don't lean too heavily on "booths." These are broad ideas that belong across all marketing. Don't narrow a post's audience to event marketers just because an event session raised the topic. Use events as one example, alongside launches, campaigns and everyday content work.
+- **Evergreen keywords:** cybersecurity is a good angle, but don't make it the only one. Pick core keywords that will still be searched after the event, and use cyber as the lead example instead of the whole frame.
+
+---
+
 ## Process
 
 ### Step 1: Inventory the blog
