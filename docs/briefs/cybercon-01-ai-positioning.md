@@ -1,56 +1,55 @@
-# Blog Brief 1 of 3: Demote AI in Your Positioning
+# **Content Workshop Content Brief**
 
-**Working Title:** Demote AI in Your Positioning
+## Prepared for: CW
 
-**Target Persona:** CMOs and product marketing leads at B2B tech companies who own positioning and messaging. Cybersecurity vendors are the lead example, because that market shows the problem most clearly, but the argument applies to any B2B tech company adding AI to its story.
+## by: Christina at Content Workshop
 
-**Core Keyword:** AI marketing
+| SEO Checklist  |
+| ----- |
+| **At least 1,200 words unless otherwise instructed.  0.5% \- 0.8% Subtopic Keyword Phrase (SKP) density (5-8 times).  Use the Core Keyword Phase (CKP) in the first paragraph, and link to the corresponding core article or pillar page. If the article doesn't exist, link to a solution or other core page on the site. Use the SKP in the title of the blog when possible.  Use the SKP in at least one header (use H2 headers, don't just increase font size). Bold the first use of the SKP in the article. Use the SKP in the Meta Title and Meta Description. Target three internal links and two external links—not competitors.  Look for major outlets to link, like a .org, .gov or .edu. If links are provided below, please use them.**  |
 
-**Subtopic Keyword:** positioning strategy
+| Topic *Please draft title from this topic* | Demote AI in Your Positioning |
+| :---- | :---- |
+| **Content type**  | Blog article (thought leadership with a practical framework) |
+| **Quarter/Month** | Q4, November 2026 |
+| **Target Persona *Read more here*.** | CMO Charley (primary); product marketing lead (secondary; confirm the PMM persona name in the persona library) |
+| **Pillar Page** | [https\://contentworkshop.com/mastering-ai-marketing-strategies/](https://contentworkshop.com/mastering-ai-marketing-strategies/)  |
+| **CKP** | AI marketing |
+| **SKP(s)** | AI positioning |
+| **Search intent** | Strategic: a marketing leader deciding how prominent AI should be in their company's positioning and messaging |
+| **Supporting phrases from the outline** | AI washing, product positioning, positioning framework, B2B messaging, value proposition (use only where they read naturally; not volume-checked) |
+| **Meta Title** | *The Headline Problem in AI Positioning* |
+| **Meta Description** | *When every competitor leads with AI, the headline stops differentiating. Rebuild your AI positioning around the outcome, with AI as the proof.* |
+| **URL slug** | /ai-positioning/ |
+| **Categories** | AI Marketing, Content Marketing, Cybersecurity Marketing |
+| **Suggested Outline** | **Introduction (about 150 words)** Open on the sameness test: line up five competitors' homepage headlines. When most of them say "AI-powered," the phrase has stopped being a position and become table stakes. Cybersecurity is the sharpest example (every vendor at CyberCon will say it), but the pattern holds across B2B tech. State the position plainly: for most companies, AI belongs in the proof, and the outcome belongs back in the headline. CKP "AI marketing" in the first 100 words. Pillar link here, on the anchor "AI marketing strategy." Bold the first use of the SKP. **H2: Why AI Moved Into the Headline (about 225 words)** Point: leading with AI was a rational choice. Boards, investors and launch calendars rewarded it, and early movers got real differentiation. That advantage disappears once everyone makes the same claim. Name the cost of overclaiming: regulators now treat inflated AI claims as a deception risk ([FTC Operation AI Comply](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes); [SEC "AI washing" charges](https://www.sec.gov/newsroom/press-releases/2024-36), both pending verification). Keep it to one or two sentences. This post is about positioning, not compliance. Internal link: Quality Inputs Matter, on why AI-generated messaging converges on the same words. **H2: Where AI Positioning Belongs: Promise, Proof, Mechanism (about 325 words)** Carries the SKP in a heading. Point: a position has three layers, and buyers check each one differently. Suggested H3s, each followed by a paragraph: "The promise: the outcome the buyer is paying for," "The proof: evidence the outcome is real," "The mechanism: how you deliver it." AI usually belongs in the proof or mechanism layer. It explains *why* you can deliver the outcome faster, cheaper or more accurately. Buyers verify proof before they believe a promise. Cite the [TrustRadius 2026 B2B Buying Disconnect Report](https://hginsights.com/blog/trust-more-verify-everything-what-the-2026-b2b-buying-disconnect-report-says-about-where-buying-is-actually-heading/) (pending verification) for vendor marketing collateral ranking last among sources buyers trust, and for buyers fact-checking AI-generated research. Framework name: "Promise, Proof, Mechanism" is the descriptive option. Alternates with more personality for the reviewer to choose from: "the outcome stack," "the headline demotion test." Internal link: Message Maps Made Easy, where these layers get written down. Inline image: the three layers. **H2: What the Shift Looks Like in Practice (about 300 words)** Point: this is a familiar mistake in a new costume. Leading with AI is the new leading with features. Use the anonymized client example: an emergency-response software company whose site was organized around individual tools rather than the outcomes its buyers cared about. Content Workshop rebuilt it with audience-first architecture and outcome-led copy (e.g., cutting charting time for field staff, giving operations leaders better incident visibility). Draw the parallel explicitly; this wasn't an AI project. Then show a short, clearly illustrative before/after headline rewrite for a hypothetical AI-enabled security product: "AI-powered threat detection" → the outcome, with AI moved into the supporting line. Inline image: the before/after headline. **H2: When AI Should Lead (about 200 words)** Point: the argument has a real exception, and it needs real treatment. In AI-native categories (e.g., agentic SOC tools), the AI *is* the product, and trust and governance are what buyers judge. There, the headline should lead with what the AI is trusted to do and how it's governed, not with the fact that AI exists. Keep this section concrete; a token caveat will lose the AI-native reader. **H2: Test Your AI Positioning Before You Rewrite Everything (about 200 words)** Point: treat positioning as a hypothesis. Run a message-map variant with the outcome on top. Listen for which language prospects repeat in sales calls. Check how AI answers describe you before and after. Avoid a full rebrand until the evidence supports it. Internal links: Win the Search War (checking what AI answers say about you); You Don't Need a New Idea (the "Yours" test for whether a message is ownable). **H2: Put the Outcome Back on Top (about 100 words)** Closing section with CTA. Use a specific heading; do not label it "Conclusion." Close on the sharper question: "If a buyer covered your logo, could they tell your headline from your competitor's?" CKP "AI marketing" once in this section. CTA: one sentence that finishes the argument and links to AI Studio. Avoid generic "contact us today" phrasing. |
+| **Internal links *(Please read all and include them)*** | These six links are the full internal set for the blog. Each sits on natural anchor text in the body; each page's text was checked against the role it plays here. [**Mastering AI Marketing: Strategies for the Modern Tech Enterprise**](https://contentworkshop.com/mastering-ai-marketing-strategies/) **(pillar)** Anchor text: AI marketing strategy Placement: Introduction Why it fits: Pillar page for the CKP; frames AI marketing as a company-wide strategy, which this post narrows to positioning [**Quality Inputs Matter: How to Avoid the "Average of the Internet" Effect in AI Marketing**](https://contentworkshop.com/quality-inputs-transform-ai-marketing/) Anchor text: the average of the internet Placement: Why AI Moved Into the Headline Why it fits: Explains why AI-generated messaging converges on the same language [**Message Maps Made Easy**](https://contentworkshop.com/message-maps/) Anchor text: message map Placement: Promise, Proof, Mechanism section Why it fits: The working document where the three layers get written down [**Win the Search War: Measure AI Search Visibility**](https://contentworkshop.com/ai-marketing-search-visibility/) Anchor text: what AI answers say about your brand Placement: Testing section Why it fits: Its prompt-set method is how to check whether new positioning shows up in AI answers [**You Don't Need a New Idea. You Need to Find What's Missing**](https://contentworkshop.com/content-marketing-framework/) Anchor text: whether a message is truly yours Placement: Testing section Why it fits: Its "Yours" circle is the ownability test for a repositioned headline [**AI Studio**](https://contentworkshop.com/solutions/ai-marketing/) Anchor text: Content Workshop's AI Studio Placement: Closing CTA Why it fits: Conversion path for the AI marketing solution **Overlap to manage:** Quality Inputs Matter and Google's Content Effort Score already argue *why* AI content converges. Don't re-argue it. This post is the positioning fix. **Client example:** don't link the client's case study, since it would identify them. |
+| **External Sources**  | **None of these sources were opened for this brief.** This session's network blocks ftc.gov, sec.gov and hginsights.com. Details below come from search results and secondary coverage, and must be verified against each primary page before drafting. [**FTC Announces Crackdown on Deceptive AI Claims and Schemes**](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes) **(FTC, .gov)** Date: September 25, 2024 (per secondary coverage) Use it for: "Operation AI Comply," five enforcement actions against companies using AI hype to deceive, including a "robot lawyer" capabilities claim Placement: Why AI Moved Into the Headline Verify: exact URL, title, and any quoted language [**SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence**](https://www.sec.gov/newsroom/press-releases/2024-36) **(SEC, .gov)** Date: March 18, 2024 (per secondary coverage) Use it for: the first "AI washing" settlements; two advisers paid a combined $400,000 for overstating their use of AI Placement: Why AI Moved Into the Headline Verify: exact URL, title, penalty figure, and any quoted language [**Trust More, Verify Everything: What the 2026 B2B Buying Disconnect Report Says**](https://hginsights.com/blog/trust-more-verify-everything-what-the-2026-b2b-buying-disconnect-report-says-about-where-buying-is-actually-heading/) **(TrustRadius / HG Insights)** Date: 2026 Use it for: vendor marketing collateral ranking last among resources buyers trust; buyers fact-checking AI-generated research (reported as 94%) Placement: Promise, Proof, Mechanism section Verify: secondary coverage reports conflicting trust-decline figures. Use only numbers confirmed in the primary report, and cite the report itself if it's accessible. **Notes for the writer** Use the FTC and SEC sources together in one or two sentences. They establish the cost of overclaiming; they are not the post's subject. Link each source once at most, on descriptive anchor text. Paraphrase; don't lift phrasing. Cite the method or finding, not the vendor. If any source can't be verified, cut the claim rather than citing secondary coverage. |
 
-**Search Intent:** Strategic. The reader is deciding how prominent AI should be in their own positioning, not looking for a how-to on AI tools.
+## **Voice and style guardrails**
 
-**Reader Problem:** Every competitor now leads with "AI-powered," so the word no longer differentiates anyone. Positioning that leads with AI reads the same as everyone else's and invites the trust and governance questions buyers care about most. Meanwhile, the outcome the buyer is paying for gets pushed below the fold.
+* **Tone:** confident and strategic, written for a sophisticated, time-pressed marketing leader. Never imply the reader or their technical buyers lack understanding, and avoid "most teams get this wrong" framing; describe the failure mode instead.
+* **Breadth:** cybersecurity is the lead example, not the whole frame. The argument should land for any B2B tech marketer adding AI to their story (David Ebner, Nov 2026).
+* **Introduction:** engaging and a little edgy. No "let's dive in," "let's delve in," or "let's explore."
+* **Depth over breadth:** five ideas, each developed fully. Paragraphs of one to three sentences with varied sentence length.
+* **Lists:** bullets only for short fragments. Any list item that needs a full sentence becomes an H3 with a paragraph.
+* **Word count:** 1,500 words. Hit the target in the first draft through planning and pacing. No filler added afterward.
+* **Links:** hyperlinks sit on natural anchor text in the body. No bare URLs, no "click here."
+* **"X is not the thing, Y is" construction:** none in the title or headings, one at most in body copy. This topic invites the construction ("AI isn't the headline, the outcome is"), so run a find-pass and count before the draft is finished.
+* **Em dashes:** no more than three in the full article, set closed with no spaces. Count them before the draft is finished.
+* **Figurative language:** one metaphor at a time, and only where it clarifies. "Demote" is the frame; don't stack other metaphors on it.
+* **Words to avoid:** "silent" and "quiet" as modifiers, "leverage" where a simpler verb works, and hedges that announce a point instead of making it.
+* **Names and statistics:** verify company, product, regulator and study names against the source. Every statistic must be traceable to its link.
+* **Client confidentiality:** refer to the client only as "an emergency-response software company." No name, case-study link, product names, page counts, or the full list of audiences. Internal source for fact-checking: the ESO Web Studio case study (contentworkshop.com/work/eso/).
+* **AI content threads to reflect where relevant:** velocity should not cost credibility; AI sounds like the brand only once it is trained; technical buyers expect nuance; subject matter experts provide the depth AI cannot replicate.
+* **CTA:** earned by the argument, never bolted on.
 
-**Content Angle:** For most B2B tech companies, AI belongs in the proof layer of positioning (how you deliver the outcome) rather than the headline. Leading with AI now signals sameness instead of innovation. AI-native categories where governance and trust are what buyers judge are the exception, and the post says so plainly. Proof comes from an anonymized client: a product-first site rebuilt around outcomes. Leading with AI is the new leading with features.
+## **Visual specs**
 
-**Internal Links:**
-- [AI Studio](https://contentworkshop.com/solutions/ai-marketing/) (pillar page)
-- [Mastering AI Marketing](https://contentworkshop.com/mastering-ai-marketing-strategies/): "AI marketing strategy"
-- [Message Maps Made Easy](https://contentworkshop.com/message-maps/): where the promise/proof/mechanism layers get written down
-- [Quality Inputs Matter](https://contentworkshop.com/quality-inputs-transform-ai-marketing/): why AI-generated messaging converges on the same words
-- [Win the Search War: Measure AI Search Visibility](https://contentworkshop.com/ai-marketing-search-visibility/): testing how AI answers describe your positioning
-- [You Don't Need a New Idea](https://contentworkshop.com/content-marketing-framework/): the "Yours" test for whether a message is ownable
+| Asset | Size | Direction |
+| ----- | ----- | ----- |
+| Primary blog image | 1860 x 930 px, high quality | A row of identical "AI-powered" headlines, with one outcome-led headline standing apart |
+| Inline image 1 | 860 x 310 px | Promise, Proof, Mechanism: three stacked layers, with AI shown in the proof and mechanism layers |
+| Inline image 2 | 860 x 310 px | Before/after: an "AI-powered" headline beside its outcome-led rewrite, with AI moved to the supporting line |
 
-**Proposed Structure:**
-1. **Intro:** the sameness test. Line up five competitors' homepage headlines. If "AI-powered" is in most of them, it's no longer a position. (~150w)
-2. **H2: Why AI Moved Into the Headline**: the pressure from boards, investors and launches, and why it made sense in 2023 and stopped working once everyone did it. (~250w)
-3. **H2: Promise, Proof, Mechanism**: the three layers of a position, where AI belongs in each, and what buyers check at each layer. (~350w)
-4. **H2: What the Shift Looks Like in Practice**: the anonymized client example, from product-first to outcome-first, with the AI parallel drawn out. Then a short, clearly illustrative before/after headline rewrite. (~300w)
-5. **H2: When AI Should Lead**: AI-native categories (e.g., agentic SOC), where trust and governance are the buying criteria, and what the headline has to say then. (~200w)
-6. **H2: Test It Before You Rewrite Everything**: run positioning as a hypothesis with a message-map variant, sales-call language and how AI answers describe you. Ends with the CTA. (~250w)
-
-**CTA Direction:** Conclude the argument rather than bolting on a pitch. Direction: "If your positioning reads like everyone else's AI story, Content Workshop can help you rebuild it around the outcome your buyers are paying for, with AI where it earns its place." Link the AI Studio pillar. Optionally mention Content Studio's messaging work.
-
----
-
-## Additional Notes (outside the template)
-
-**Meta Title:** The Headline Problem in AI Marketing. The H1 leaves out the core keyword on purpose; the meta title carries it.
-
-**Length:** 1,500 words, 6 sections.
-
-**Pillar Page:** AI Studio (`/solutions/ai-marketing/`), the page the recent AI Marketing posts link to.
-
-**Keyword placement:** Use the exact-match phrase "AI marketing" once in the body, in the first ~100 words. Work it into one H2 if it fits naturally. Note that "AI marketing" mostly draws searchers who want to *use* AI in marketing, while this post is about how prominent AI should be in positioning. It fits CW's AI Marketing cluster, but it won't rank for the head term on its own.
-
-**Client example (anonymized):** Refer to the client only as "an emergency-response software company." Don't name it, link its case study, or include identifying details (product names, the 700-page site count, the four audience names together). Internal source: the ESO Web Studio case study (contentworkshop.com/work/eso/). It isn't an AI-positioning project, so present it as an analogy, not as an AI before-and-after.
-
-**Reviewer guidance:** David Ebner (Nov 2026). Keep ideas broad enough for all of marketing. Cyber is the lead example, not the whole frame. Keep it evergreen.
-
-**Risks to manage:**
-- Investors and AI-native clients reward AI-forward positioning, so the exception section has to be real, not a token caveat.
-- Don't imply readers don't understand their own market.
-- Any "count of AI-powered claims" must be framed as an exercise unless someone actually counts.
-
-**Source:** CyberCon content-gap analysis, problem 1 ("Everyone sounds the same").
+Brand colors: yellow \#fbd139, navy \#0e213d, blue \#0066ff.
