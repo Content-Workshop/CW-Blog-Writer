@@ -79,7 +79,7 @@
 | Conversion | Keep it simple. One general project form (no per-service choice; hosting and maintenance come up on the call). Two CTA buttons: "Tell us about your project" (to form) and "Book a call" (calendar link). |
 | Hosting on this page | No prices or tiers. Describe hosting and maintenance as services and link to the hosting page (https://contentworkshop.com/web-hosting/) for plans. |
 | Core pains | (1) Outdated site that doesn't reflect the brand; (2) juggling separate vendors for design, dev, hosting; (3) managing site needs with a less technical team |
-| Case studies | Featured: ESO (most recent; B2B; 700-plus-page restructure launched on schedule). Proof points: Fox Harb'r (full design-to-hosting-and-maintenance story) and Halo (metrics). |
+| Case studies | ESO only (proof cards for Fox Harb'r and Halo removed November 3, 2026). ESO may be swapped for a different case study later. |
 | Capabilities | All 10 still offered (UX/UI Design, Web Development, Landing Pages, Native Apps, Web Apps, E-commerce, Design System, Mobile Optimization, WordPress Design, More) |
 | Platform | Lean WordPress (WordPress-first wording; Shopify/other platforms not excluded, e.g., Halo) |
 | Maintenance offerings | (1) Maintenance plans: WordPress core and plugin updates, security patches, content changes. (2) Uptime monitoring and update packages: lighter option covering basic updates/patches. Separate from hosting (hosting excludes core/plugin updates and maintenance). Describe generically; no official plan names. |
@@ -113,6 +113,7 @@
 
 - [ ] Updated hosting prices (needed for the hosting page itself, not this page)
 - [ ] Booking link for "Book a call"
-- [ ] Verify ESO and Halo quotes/numbers against live case study pages
+- [ ] Verify ESO quotes/numbers against the live case study page
+- [ ] Possibly swap ESO for a different case study (user, November 3, 2026)
 - [ ] Fox Harb'r URL mismatch (/work/fox-harbr/ vs /work/fox-harbr-resort/)
 - [ ] Halo page: tagged Web Studio, text says Experiential Studio
