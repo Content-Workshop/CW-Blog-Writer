@@ -77,7 +77,7 @@
 | Page type | Sendable web services page (a link to send people), covering design, development, maintenance, and hosting |
 | Audience | Anyone we send it to: prospects after a sales call, existing clients being upsold to web work, inbound "do you do websites?" leads. Copy must work cold or warm. |
 | Conversion | Keep it simple. One general project form (no per-service choice; hosting and maintenance come up on the call). Two CTA buttons: "Tell us about your project" (to form) and "Book a call" (calendar link). |
-| Hosting on this page | No prices or tiers. Describe hosting and maintenance as services and link to the hosting page (https://contentworkshop.com/web-hosting/) for plans. |
+| Hosting on this page | No prices or tiers. Hosting box and FAQ 7 link to https://contentworkshop.com/web-hosting/#plans-pricing (anchor confirmed on live page, November 3, 2026). |
 | Core pains | (1) Outdated site that doesn't reflect the brand; (2) juggling separate vendors for design, dev, hosting; (3) managing site needs with a less technical team |
 | Case studies | ESO only (proof cards for Fox Harb'r and Halo removed November 3, 2026). ESO may be swapped for a different case study later. |
 | Capabilities | All 10 still offered (UX/UI Design, Web Development, Landing Pages, Native Apps, Web Apps, E-commerce, Design System, Mobile Optimization, WordPress Design, More) |
@@ -120,7 +120,7 @@
 
 ## Open items
 
-- [ ] Updated hosting prices (needed for the hosting page itself, not this page)
+- [ ] Updated hosting prices (hosting page itself). Live page currently shows paired figures that look broken, e.g., Tier 1 "$1,200$ 0.00", Tier 2 "$1,700$7,500", VPS "$9,000$15,000*" (fetched November 3, 2026)
 - [ ] Booking link for "Book a call"
 - [ ] Verify ESO quotes/numbers against the live case study page
 - [ ] Possibly swap ESO for a different case study (user, November 3, 2026)
