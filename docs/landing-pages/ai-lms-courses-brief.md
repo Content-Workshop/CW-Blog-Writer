@@ -69,6 +69,10 @@
 - Template check: user kept all additions (team form, pricing cards, hero button and scroll cue, form supporting line, pricing subline, team line, Slack section). User removed the form confirmation message.
 - Critical pass, all 12 applied: eyebrow "AI Marketing Course" (keyword visible); hero bullets now proof (12-week program for an enterprise marketing team; no Palo Alto name in the hero, per user), format, and included resources instead of repeating the curriculum; "self-paced" stated once (bullet 2); Step 1 and Step 3 no longer repeat pillars 1 and 2; Slack terms stated once (FAQ 6), section fine print keeps the join-link line; FAQ 7 drops tiers (form has them); case study Result no longer repeats the multi-tool box.
 
+## Second critical pass (November 3, 2026)
+
+Applied: hero bullet 1 drops "12-week" (case study has it); process H2 "Seven Modules, Two Courses"; bundle card "Opens with: Everything in Part 1 and Part 2." with the duplicate feature bullet removed; case study Challenge now a real challenge (standardized way to apply AI to high-stakes work); FAQ 7 drops the coupon-code repeat; FAQ 6 stands alone; ticker swaps in "Prompts to playbooks" and "Taught by former professors". Skipped: proposed hero bullet 3 ("Leave with working agents…"), user found it an over-promise. Bullet 3 still under review.
+
 ## FAQ (approved list, 9)
 
 *Answers shortened to 15–35 words to match the updated template (October 28, 2026). Keywords kept in FAQ 2 and FAQ 7.*
