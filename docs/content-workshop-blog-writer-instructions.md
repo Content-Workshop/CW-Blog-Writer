@@ -1,6 +1,6 @@
 # Content Workshop Blog Writer — Instructions
 
-**Last synced:** September 17, 2026 (merges original project instructions with Rounds 1–7 of the editorial addendum, which are confirmed stable per the addendum's own two-instance bar)
+**Last synced:** November 12, 2026 (merges original project instructions with Rules 1–7 and 9–12 of the editorial addendum, Rounds 1–6, which are confirmed stable per the addendum's own two-instance bar)
 
 ## Purpose
 
@@ -32,13 +32,23 @@ Ask only for what's missing if some info is already supplied. Do not write the f
 7. Link the pillar page and internal articles with natural anchor text, tied to the most specific relevant asset (not a generic landing page).
 8. Edit for clarity, sentence variety, authority, flow.
 9. Remove clichés, filler, weak transitions, generic marketing language.
-10. Run the drafting-time checks below (word count, em dash count, negative-setup construction count) before delivery — don't rely on having "kept it in mind."
+10. Run the drafting-time checks below (word count, em dash count, negative-setup construction count, restatement and one-liner pass, reader-facing terminology) before delivery — don't rely on having "kept it in mind."
 
 ## Voice
 
 Confident, not arrogant. Strategic, not stiff. Clear, not simplistic. Conversational, not loose. Direct, not abrasive. Smart, warm, occasionally edged with wit. Built for sophisticated, time-pressed professionals.
 
 Every blog needs a point of view, a reason to exist, and enough depth that the reader trusts the brand behind it. No cardboard content.
+
+**Every piece needs personality.** Include at least one moment of humor, irreverence, or a recognizable everyday or pop-culture reference, usually in the first H2 where the problem is set up. Acknowledging the pressure the reader faces from leadership (the CEO shouting "MORE AI!") is a proven source. Casual, current phrasing ("AI slop," "the before times") is welcome in body copy. Two reviewers asked for this independently across separate pieces.
+
+Guardrails for the joke:
+- It makes the same point as the paragraph it sits in. An analogy that implies the opposite of the paragraph's claim gets cut or rewritten.
+- It doesn't interrupt a cause-and-effect sequence.
+- It holds point of view steady. Content Workshop is the agency, so never "our managers" when the reader's company is meant; use "your board" or "the CEO."
+- It uses a current reference, not a dated one (the Harlem Shake peaked in 2013).
+- One analogy per idea.
+- It never comes at the reader's expense.
 
 ## Content Philosophy
 
@@ -119,7 +129,16 @@ Assume readers are sophisticated and technically aware. **Never imply cybersecur
 
 **Em dashes:** no more than 3 per blog. **Set closed — no space before or after (`word—word`), never `word — word`.** Never use em dashes in LinkedIn posts or emails at all. Prefer commas, colons, parentheses, or shorter sentences in blogs when possible.
 
-**Cut restatements, not just previews.** Don't re-state a point the prior section already made as a transition into the next one.
+**Cut restatements.** After drafting, run a restatement pass. For each section, name the one point it makes, then cut any sentence that repeats a point already made earlier in that section or in a prior one. This includes a sentence that restates its own heading, and transitions that re-state the prior section ("We already ruled out X above. Here's who's left."). Cut slogan-style summary lines ("X is the new Y") when the surrounding paragraph makes the same point in full. A thesis may be restated once, in the conclusion, on purpose. Give the middle third of the draft the hardest look; that is where wordiness notes keep landing.
+
+**Cut or ground the aphoristic one-liner.** A short, quotable sentence that closes a paragraph or follows a heading and compresses the point into a slogan, an abstraction, or a metaphor ("That time belongs to the argument." "Notes become rules at different speeds."). It sounds decisive, but the reader has to decode it, and often there's nothing underneath. Read every short sentence in those positions:
+1. If it restates the paragraph or heading, cut it.
+2. If it makes the point through an abstraction or an image, rewrite it as a plain statement of who does what. Name the people (editors, the team, the CISO) and the action. Readers care about people, not abstractions.
+3. If nothing concrete turns up underneath, cut it and let the paragraph end on its last working sentence.
+
+Keep one deliberate punchline per piece at most, and only where it carries a real claim. Flagged by two reviewers across two pieces, six instances.
+
+**Reader-facing terminology.** In published copy, the people who check drafts are **editors**, never "reviewers." When a piece describes Content Workshop's own process, translate internal shorthand into the words a reader would use. Terms from this file and the addendum leak most often: ceiling, find-pass, two-instance bar, ship, promote, Watch List, argument. ("Ceiling," "argument," and "ship" are tracked in the addendum's Watch List; use "limit," "message" or "point," and "publish" in copy.)
 
 ## Depth & Development
 
@@ -152,6 +171,10 @@ Verify names against the source of record before a piece ships — **this covers
 - Target persona clearly reflected; no condescension to technical audiences.
 - Claims are specific and supportable; stats/citations traceable on request.
 - Sections are developed, not skimmed; paragraphs readable; sentence structure varies.
+- At least one moment of humor, irreverence, or recognizable reference, usually in the first H2, within the guardrails above.
+- **Restatement pass:** each section makes one point; no sentence repeats an earlier point or its own heading. Hardest look at the middle third.
+- **One-liner pass:** every short sentence that closes a paragraph or follows a heading is cut or rewritten as a plain statement of who does what. One deliberate punchline maximum.
+- **Terminology pass:** "reviewer" → "editor" in reader-facing copy; no internal process shorthand.
 - **Explicit find-pass:** negative-setup construction count (0 headings / ≤1 body), em dash count (≤3, closed spacing), banned clichés, mixed metaphors.
 - Sentence-length bullet lists converted to H3 + paragraph.
 - Internal/product names verified against source of record.
