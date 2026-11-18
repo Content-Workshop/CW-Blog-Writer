@@ -2,7 +2,7 @@
 rubric: article
 stage: "Blog / Pillar Page QA"
 reviewer: article-karen
-version: 2-cw-blog-writer
+version: 3-cw-blog-writer
 appliesTo: blog draft
 ---
 
@@ -25,9 +25,12 @@ and note the gap in the report.
 
 **Rule tiers**
 - **House rule:** written in the editorial docs. A miss is a **FAIL**.
-- **Brief rule:** a requirement that applies only when the intake or brief supplies it (Crius SEO/AEO
-  targets, work-ins, a specific meta-length spec). If the brief supplies it, a miss is a **FAIL**. If not,
-  report the measurement as **advisory**: it does not block and is not a FAIL.
+- **Brief rule:** a requirement that applies only when the intake or brief supplies it (work-ins,
+  subtopic-keyword bolding/H2 placement, subtopic keyword in the meta title). If the brief supplies it,
+  a miss is a **FAIL**. If not, report the measurement as **advisory**: it does not block and is not a FAIL.
+
+The SEO/AEO numbers in C8–C10 (subtopic keyword 5–8 uses, meta lengths, link minimums, ≥4 AEO practices)
+are **house rules** as of v3: they are written in the instructions' *SEO* section and always block.
 - **Watch-list item:** a tell-word or pattern the addendum lists as "flag on use." Report it as **advisory**.
 
 **Verdict values**
@@ -113,25 +116,29 @@ Count each of these and report the numbers. Don't estimate.
 ### C7: Core keyword
 - **Check (house rules):**
   - The exact-match core keyword appears in the user's **exact word order**, used as an exact match
-    **once** (addendum Rule 1).
+    **once in body copy** (addendum Rule 1). **The title, H1 and meta title don't count toward the once
+    rule.** Report title/H1/meta uses separately.
   - It appears in the first ~100 words of the intro.
   - It appears naturally in the body. Title, an H2 and the conclusion/CTA are "if natural."
   - It never reads as stuffed or forced.
   - The pillar page is linked with natural anchor text (never "click here" or "read this pillar page").
-- **Fail when:** the word order differs, the exact match is missing or repeated, it's absent from the
+- **Fail when:** the word order differs, the exact match is missing or repeated in body copy, it's absent from the
   first ~100 words, it's forced, or the pillar link is missing or has bad anchor text.
 - **ESCALATE** if no core keyword or pillar page was supplied.
-- **Evidence:** the exact-match count, the first ~100 words, and the pillar anchor.
+- **Evidence:** the body exact-match count (title/H1/meta uses listed separately), the first ~100 words,
+  and the pillar anchor.
 
 ### C8: Subtopic keyword and meta fields
-- **Check (house rules):** the subtopic keyword supports the main topic, appears naturally in the body,
-  and appears in a subheading where appropriate.
-- **Brief rules (advisory unless the brief requires them):** report the measured values for the Crius
-  SEO targets:
-  - subtopic keyword used 5–8 times (~0.5–0.8% density), bolded on first use, in at least 1 H2
-  - meta title ≤60 characters and includes the subtopic keyword
-  - meta description 155–160 characters
-- **Fail when:** the subtopic keyword is missing or forced, or a brief-required target is missed.
+- **Check (house rules):**
+  - The subtopic keyword supports the main topic, appears naturally in the body, and appears in a
+    subheading where appropriate.
+  - It is used **5–8 times** in the piece (~0.5–0.8% density at typical lengths), without sounding stuffed.
+  - **Meta title ≤60 characters. Meta description 155–160 characters.** Count characters; don't estimate.
+    If either is missing from the deliverable, that's a FAIL.
+- **Brief rules (advisory unless the brief requires them):** subtopic keyword bolded on first use, in at
+  least 1 H2, and included in the meta title.
+- **Fail when:** the subtopic keyword is missing or forced, it's used fewer than 5 or more than 8 times,
+  a meta field is missing or out of range, or a brief-required target is missed.
 - **Evidence:** the count, the density, and the meta title/description with character counts (if delivered).
 
 ### C9: Link hygiene
@@ -139,14 +146,15 @@ Count each of these and report the numbers. Don't estimate.
   - Every internal article supplied at intake is linked.
   - Anchors are editorial and point to the **most specific relevant asset**, not a generic landing page.
   - No end-of-post link dumps unless requested.
-- **Brief rules (advisory unless required):** at least 3 internal links; 2–3 external links on
-  authoritative domains (`.org`/`.gov`/`.edu`); no competitor domains; every `workIns[]` term used.
-  Always report a competitor link as advisory, even if no brief rule applies.
-- **Fail when:** a supplied internal link is missing, an anchor is mechanical or generic, or there's a
-  link dump.
+  - **At least 3 internal links.** The pillar-page link counts as one.
+  - **2–3 external links, each on a `.org`, `.gov` or `.edu` domain.** No competitor domains.
+- **Brief rules (advisory unless required):** every `workIns[]` term used.
+- **Fail when:** a supplied internal link is missing, there are fewer than 3 internal links, an anchor is
+  mechanical or generic, there's a link dump, the external links number fewer than 2 or more than 3,
+  or any external link is off `.org`/`.gov`/`.edu` or goes to a competitor.
 - **Evidence:** list every link with its anchor, and say what's missing.
 
-### C10: AEO practices (brief rule)
+### C10: AEO practices (house rule)
 - **Check:** how many of these practices are actually present in the draft:
   - direct-answer lead
   - Q&A heading
@@ -159,8 +167,8 @@ Count each of these and report the numbers. Don't estimate.
   - visible expertise
   - alt-text guidance
   - markdown-friendly layout
-- **FAIL** if the brief requires AEO and fewer than 4 are present. Otherwise **advisory**: report the
-  count and which practices were found.
+- **Pass when:** at least 4 are verifiably present in the draft itself.
+- **Fail when:** fewer than 4 are present, or a practice the writer claimed isn't actually there.
 - **Evidence:** name each practice found. If the writer claimed a practice, say whether it's actually
   there.
 

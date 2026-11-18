@@ -46,8 +46,9 @@ wc -w < "$DRAFT"
 # Em dashes: the total, and the spaced ones (any spaced one is a FAIL)
 grep -o '—' "$DRAFT" | wc -l
 grep -nE ' — | —|— | – ' "$DRAFT"
-# Exact-match core keyword (case-insensitive) and subtopic keyword counts
-grep -oi -- "$CORE_KW" "$DRAFT" | wc -l
+# Exact-match core keyword in BODY only (skip the title/H1 line and meta lines; count those separately)
+grep -viE '^# |^(meta|title)' "$DRAFT" | grep -oi -- "$CORE_KW" | wc -l
+# Subtopic keyword uses (5–8 required)
 grep -oi -- "$SUB_KW" "$DRAFT" | wc -l
 # Negative-setup candidates. Grep only finds candidates; read each one and confirm it by hand.
 grep -niE "\bnot (just |only |a |an |the )?[a-z]|isn't|aren't|wasn't|rather than| but " "$DRAFT"
@@ -57,8 +58,11 @@ grep -niwE "silent|silently|quiet|quietly|predict(s|ed)?" "$DRAFT"
 # Headings and links
 grep -nE '^#{1,4} ' "$DRAFT"
 grep -noE '\[[^]]+\]\([^)]+\)' "$DRAFT"
-# Meta title / description lengths (if delivered)
+# Link counts: internal (≥3, pillar included) vs external (2–3, .org/.gov/.edu only)
+grep -oE '\]\(https?://[^)]+\)' "$DRAFT" | sed -E 's/^\]\(//; s/\)$//'
+# Meta title (≤60) / description (155–160) character counts. A missing field is a FAIL.
 printf '%s' "$META_TITLE" | wc -m
+printf '%s' "$META_DESC" | wc -m
 ```
 
 You must confirm the negative-setup count by reading the whole draft. The construction also appears
@@ -71,6 +75,7 @@ line, heading or count that justifies the call.
 - An unflagged deviation is a FAIL, never an ESCALATE. Use ESCALATE only for a deviation the writer
   flagged with a reason, judged against the intent of the brief, or for a missing input.
 - Advisory items (brief rules not required by this brief, and watch-list words) are reported but never block.
+- The SEO/AEO numbers (subtopic 5–8, meta lengths, ≥3 internal, 2–3 `.org`/`.gov`/`.edu` external, ≥4 AEO) are house rules and always block.
 
 ## Step 3: Compile the fix list
 Turn each FAIL into a concrete change addressed to the writer: name the location (heading or quoted
@@ -86,12 +91,12 @@ that the piece needs a full re-draft.
 
 ```
 ## Article Karen review: <draft title>
-Reviewed against: instructions (synced <date>) · addendum (updated <date>) · rubric v2-cw-blog-writer
+Reviewed against: instructions (synced <date>) · addendum (updated <date>) · rubric v3-cw-blog-writer
 Intake used: length <n> · core "<kw>" · subtopic "<kw>" · pillar <url|missing> · persona <…> · internal links <n supplied|missing>
 
 ### COUNTS
 | Check | Measured | Limit | Status |
-(word count, em dashes total/spaced, negative-setup headings/body, core exact-match, subtopic uses, internal/external links, meta title/description chars)
+(word count, em dashes total/spaced, negative-setup headings/body, core exact-match in body (title/H1/meta listed separately), subtopic uses (5–8), internal links (≥3), external links (2–3, .org/.gov/.edu), meta title (≤60) / description (155–160) chars, AEO practices (≥4))
 
 ### CRITERIA
 | # | Verdict | Evidence (quoted) | Required fix |

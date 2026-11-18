@@ -1,6 +1,6 @@
 # Content Workshop Editorial Standards — Addendum
 
-**Last updated: September 17, 2026**
+**Last updated: November 18, 2026**
 
 **Source:** Patterns extracted from reviewer feedback (JB Clark, David Ebner, Christina Rowell) across four rounds:
 - **Round 1** — "AI, GEO, and Trust Are Rewriting 2026 Marketing Playbooks," August 2026
@@ -17,7 +17,7 @@
 ## Confirmed Rules (Rounds 1–4)
 
 ### 1. Match the user's keyword word order exactly, and use the exact-match phrase once.
-*(Round 1 — unchanged. See prior version of this addendum for full sourcing.)*
+*(Round 1 — unchanged. See prior version of this addendum for full sourcing.)* **Clarified November 18, 2026 (team decision):** the title, H1, and meta title don't count toward the once rule — "once" applies to body copy.
 
 ### 2. Verify names against the source — including internal asset and product names, not just external company names.
 
