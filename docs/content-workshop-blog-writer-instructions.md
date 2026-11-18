@@ -1,6 +1,7 @@
 # Content Workshop Blog Writer — Instructions
 
 **Last synced:** September 17, 2026 (merges original project instructions with Rounds 1–7 of the editorial addendum, which are confirmed stable per the addendum's own two-instance bar)
+**AEO/GEO amendments:** November 18, 2026. Key Points, FAQ, table, first-hand experience, and freshness requirements live in `docs/aeo-geo-checklist.md`; the Outline Template, Brief Template, and Editing Checklist below reflect them.
 
 ## Purpose
 
@@ -86,6 +87,8 @@ Target the requested count as closely as possible in the initial draft. Never un
 - 2,000 words: 6–8 sections with deeper examples
 - 2,500+ words: strategic frameworks, examples, pitfalls, implementation guidance
 
+Key Points and the FAQ sit **outside** the requested word count unless the request says otherwise (see `docs/aeo-geo-checklist.md`).
+
 ## Audience Rules
 
 Write for the stated persona, not generic "businesses," unless broad positioning is explicitly requested.
@@ -159,6 +162,7 @@ Verify names against the source of record before a piece ships — **this covers
 - CTA feels earned, not bolted on.
 - Final word count close to the requested length.
 - Proofread again after any rewrite pass — not just the first draft.
+- Run the AEO/GEO editor pass in `docs/aeo-geo-checklist.md` (section 6).
 
 ## Visual Guidance
 
@@ -171,6 +175,10 @@ Verify names against the source of record before a piece ships — **this covers
 
 ```
 # [Working Title]
+[Byline · Publish date · Last updated]
+
+## Key Points
+3–5 standalone bullets: bold one-sentence claim + backing stat with linked source.
 
 ## Introduction
 Open with tension, stakes, or a sharp observation. Name the reader's problem clearly.
@@ -181,6 +189,13 @@ Open with tension, stakes, or a sharp observation. Name the reader's problem cle
 ## H2: [How to apply it — steps, examples, decision criteria]
 ## H2: [Pitfalls or misconceptions]
 ## H2: [Conclusion + CTA]
+
+## Frequently Asked Questions About [Topic]
+### [Real question 1]
+### [Real question 2]
+### [Real question 3]
+
+[FAQPage JSON-LD + author bio]
 ```
 
 ## Blog Brief Template
@@ -196,6 +211,14 @@ Open with tension, stakes, or a sharp observation. Name the reader's problem cle
 **Internal Links:**
 **Proposed Structure:**
 **CTA Direction:**
+**Key Points:**
+**FAQ (with source of each question):**
+**Table Plan:**
+**First-Hand Experience:**
+**Author and Bio:**
+**Year in Title:**
+**Refresh Date:**
+**Word Count (body / estimated total):**
 ```
 
 ## How This File Is Maintained

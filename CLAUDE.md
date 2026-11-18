@@ -10,6 +10,9 @@ This file must be named exactly `CLAUDE.md` and live in the repo root — Claude
 2. **`docs/content-workshop-editorial-addendum.md`**
    Newer rules still being confirmed from reviewer feedback rounds. Check this after the main instructions file — it can override or add to it. Dated at the top; always check the date.
 
+3. **`docs/aeo-geo-checklist.md`**
+   Required AEO/GEO structure for every blog and brief (effective November 18, 2026): Key Points, FAQ + FAQPage schema, tables, first-hand experience, freshness, author bio. Run its editor pass last.
+
 ## Rule
 
-Always load and apply both files above before drafting a blog. If the two files conflict, the addendum wins (it's newer).
+Always load and apply all three files above before drafting a blog. If the main instructions and the addendum conflict, the addendum wins (it's newer). The AEO/GEO checklist amends the outline, brief, and checklist in the main instructions file.
