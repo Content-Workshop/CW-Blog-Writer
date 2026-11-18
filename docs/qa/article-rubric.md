@@ -2,7 +2,7 @@
 rubric: article
 stage: "Blog / Pillar Page QA"
 reviewer: article-karen
-version: 3-cw-blog-writer
+version: 4-cw-blog-writer
 appliesTo: blog draft
 ---
 
@@ -29,8 +29,8 @@ and note the gap in the report.
   subtopic-keyword bolding/H2 placement, subtopic keyword in the meta title). If the brief supplies it,
   a miss is a **FAIL**. If not, report the measurement as **advisory**: it does not block and is not a FAIL.
 
-The SEO/AEO numbers in C8–C10 (subtopic keyword 5–8 uses, meta lengths, link minimums, ≥4 AEO practices)
-are **house rules** as of v3: they are written in the instructions' *SEO* section and always block.
+The SEO/AEO numbers in C8–C10 (subtopic keyword 5–8 uses, meta lengths, link counts, ≥4 AEO practices)
+are **house rules** (since v3; v4 makes the external-link domain a preference): they are written in the instructions' *SEO* section and always block.
 - **Watch-list item:** a tell-word or pattern the addendum lists as "flag on use." Report it as **advisory**.
 
 **Verdict values**
@@ -132,7 +132,8 @@ Count each of these and report the numbers. Don't estimate.
 - **Check (house rules):**
   - The subtopic keyword supports the main topic, appears naturally in the body, and appears in a
     subheading where appropriate.
-  - It is used **5–8 times** in the piece (~0.5–0.8% density at typical lengths), without sounding stuffed.
+  - It is used **5–8 times** in body copy and subheadings (~0.5–0.8% density at typical lengths), without
+    sounding stuffed. **The title/H1, meta title and meta description don't count**; report them separately.
   - **Meta title ≤60 characters. Meta description 155–160 characters.** Count characters; don't estimate.
     If either is missing from the deliverable, that's a FAIL.
 - **Brief rules (advisory unless the brief requires them):** subtopic keyword bolded on first use, in at
@@ -147,11 +148,13 @@ Count each of these and report the numbers. Don't estimate.
   - Anchors are editorial and point to the **most specific relevant asset**, not a generic landing page.
   - No end-of-post link dumps unless requested.
   - **At least 3 internal links.** The pillar-page link counts as one.
-  - **2–3 external links, each on a `.org`, `.gov` or `.edu` domain.** No competitor domains.
+  - **2–3 external links** to reputable sources. No competitor domains. HubSpot is **not** a competitor.
+- **Preference (advisory):** `.org`/`.gov`/`.edu` sources where a strong one exists. Other reputable
+  domains (industry publications, vendor research) are acceptable. Note any that look sponsored.
 - **Brief rules (advisory unless required):** every `workIns[]` term used.
 - **Fail when:** a supplied internal link is missing, there are fewer than 3 internal links, an anchor is
   mechanical or generic, there's a link dump, the external links number fewer than 2 or more than 3,
-  or any external link is off `.org`/`.gov`/`.edu` or goes to a competitor.
+  or an external link is non-reputable or goes to a competitor.
 - **Evidence:** list every link with its anchor, and say what's missing.
 
 ### C10: AEO practices (house rule)

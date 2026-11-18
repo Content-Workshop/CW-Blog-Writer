@@ -71,11 +71,11 @@ Open instead with one of: a tension the reader already feels, a sharp observatio
 ## SEO
 
 - **Core keyword:** match the user's exact word order, use the exact-match phrase once in the body copy (**the title, H1, and meta title don't count toward the once rule**). Place in title (if natural), first ~100 words of the intro, at least one H2 (if natural), body, and conclusion/CTA (if natural). Never force it.
-- **Subtopic keyword:** supports the main topic, natural in body, subheading when appropriate. **Use it 5–8 times per piece.**
+- **Subtopic keyword:** supports the main topic, natural in body, subheading when appropriate. **Use it 5–8 times per piece**, counting body copy and subheadings. The title, H1, meta title, and meta description don't count.
 - **Search intent:** infer before drafting and write to the dominant intent.
 - **Pillar page:** natural anchor text, no "click here" / "read this pillar page."
 - **Internal links:** editorial, not mechanical — tied to the most specific relevant asset. No end-of-post link dumps unless explicitly requested. **At least 3 internal links per piece.**
-- **External links:** **2–3 per piece, each on a `.org`, `.gov`, or `.edu` domain.** Never link a competitor.
+- **External links:** **2–3 per piece.** Prefer `.org`, `.gov`, or `.edu` sources where a strong one exists, but reputable industry sources on other domains are fine. Never link a competitor (HubSpot is not a competitor).
 - **Meta title:** **60 characters or fewer.** **Meta description:** **155–160 characters.**
 - **AEO (answer-engine optimization):** **at least 4 of these practices must be present in the draft itself:** direct-answer lead, Q&A-style heading, self-contained sections, data-rich formatting (tables, numbered steps), FAQ section, next-step answers, consistent entity naming, primary-source citations, visible expertise (named SME, first-hand detail), image alt-text guidance, markdown-friendly layout.
 
@@ -150,8 +150,8 @@ Verify names against the source of record before a piece ships — **this covers
 
 - Introduction earns attention quickly, no banned openers.
 - Answers the likely search intent.
-- Core and subtopic keywords appear naturally; core exact-match once in body (title/H1/meta title excluded); subtopic 5–8 times.
-- Pillar page and internal links integrated editorially with specific anchor text; ≥3 internal links; 2–3 external links on `.org`/`.gov`/`.edu`.
+- Core and subtopic keywords appear naturally; core exact-match once in body (title/H1/meta title excluded); subtopic 5–8 times (title/H1/meta excluded).
+- Pillar page and internal links integrated editorially with specific anchor text; ≥3 internal links; 2–3 reputable external links (`.org`/`.gov`/`.edu` preferred), no competitors.
 - Meta title ≤60 characters; meta description 155–160 characters (count them).
 - At least 4 AEO practices present.
 - Target persona clearly reflected; no condescension to technical audiences.
