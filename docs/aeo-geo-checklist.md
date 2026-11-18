@@ -21,8 +21,9 @@
 
 - **Placement:** directly under the H1 and byline, before the introduction. Use the H2 "Key Points." It is a structural label, so the vague-heading rule doesn't apply to it.
 - **Count:** three to five bullets. Default to four for a 1,200-word blog.
-- **Format:** a bold one-sentence claim, then the stat or specific fact that backs it, with the source linked.
-  - `**[Claim in one sentence.]** [Stat that backs it], according to [linked source].`
+- **Format:** a bold one-sentence claim, then the stat or specific fact that backs it, with the source named in plain text.
+  - `**[Claim in one sentence.]** [Stat that backs it], according to [source name].`
+- **No links in Key Points.** Name the source; don't hyperlink it. The link belongs in the body, where the stat is discussed, and the brief records each source's URL so the stat stays traceable.
 - **Each bullet stands alone.** An AI engine may lift one bullet without the others. No "this," "these," or "as above" pointing at another bullet.
 - **One claim per bullet,** 35 words maximum.
 - **Every stat is real and traceable.** If the claim has no published stat behind it, back it with a concrete fact from first-hand experience (what was done, what happened). Never invent or round a number to make it land.
@@ -130,7 +131,7 @@ Add these rows to the content brief, after "Proposed Structure":
 
 | Row | What goes in it |
 | :- | :- |
-| Key Points | Three to five draft bullets: bold claim, backing stat, linked source for each |
+| Key Points | Three to five draft bullets: bold claim, backing stat, and source name for each, plus each source's URL for traceability (the URL is not linked in the blog) |
 | FAQ | Three to six questions, each with where it came from (PAA, AI follow-up, sales call, SME) |
 | Table plan | "None" by default. Only if the content is genuinely comparative: what the table compares and which section it sits in |
 | First-hand experience | The specific example, story, or SME input, and who supplied it |
@@ -147,7 +148,7 @@ In the Proposed Structure, list "Key Points" first and "Frequently Asked Questio
 
 Run after the Editing Checklist in `docs/content-workshop-blog-writer-instructions.md`.
 
-- [ ] Key Points sit under the H1 and byline, before the intro: three to five bullets, bold claim plus stat, each source linked.
+- [ ] Key Points sit under the H1 and byline, before the intro: three to five bullets, bold claim plus stat, each source named, no links.
 - [ ] Each Key Point stands alone and makes one claim in 35 words or fewer.
 - [ ] Every stat in Key Points and the FAQ traces to a real source.
 - [ ] The intro doesn't repeat a Key Point sentence.
