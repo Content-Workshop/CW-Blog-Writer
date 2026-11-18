@@ -39,7 +39,7 @@
 - **At least one question goes beyond the body.** Cover an adjacent question the body doesn't fully answer, so the FAQ adds coverage instead of only repeating it.
 - **Restatement rule:** an FAQ answer may cover ground the body covered, but it must not copy body sentences. Answer from a different angle or compress. Within the FAQ, no two answers make the same point.
 - **SKP:** use it in one question where it reads naturally. FAQ uses count toward the 5 to 8 SKP target.
-- **Schema:** deliver FAQPage JSON-LD with every draft (template in section 4). The text in the schema must match the visible question and answer word for word.
+- **Schema:** deliver FAQPage JSON-LD with every draft (template and ownership in section 4). The text in the schema must match the visible question and answer word for word.
   - Note: Google limited FAQ rich results to well-known government and health sites in 2023, so the markup won't produce an FAQ snippet in Google results for most sites. It still makes the question-and-answer structure machine-readable, which is the point for AI engines.
 
 ### Word count
@@ -57,21 +57,23 @@ Key Points and the FAQ sit **outside** the requested word count unless the reque
 - Run the title shortening pass (addendum, Rule 5) with the year included.
 
 ### Updated in the last 12 months
-- Every blog shows a visible "Last updated" date.
+- The "Last updated" date is displayed by the Content Workshop website (CMS), not written into the blog draft. Writers don't add it.
 - Refresh each published piece within 12 months: update stats, Key Points, FAQ (re-check People Also Ask), the year in the title, and broken links. Change the date only when the content actually changes.
 - Track refresh dates in the content calendar.
 
-### At least one table
-- Include one when the material supports it: a comparison, decision criteria, options with attributes, before and after, a framework with defined parts.
-- Build it as a real HTML table, not an image of one.
-- Don't force it. If nothing in the piece compares or categorizes, leave it out and note why in the brief.
+### Table (only when the content is genuinely comparative)
+- **Default is no table.** Add one only when the content is truly tabular: several options compared across the same attributes, or decision criteria a reader would scan side by side.
+- **Never add a table to satisfy this checklist** or to chase the presenter's citation lift. A table that repackages points the prose already makes is filler.
+- If the section already reads cleanly as H3 + paragraph pairs (main guide, Rule 7), leave it that way.
+- When a table is warranted, build it as a real HTML table, not an image of one.
+- No reason needs to be logged when there's no table. The brief's Table plan row defaults to "None."
 
 ### First-hand experience
 - Include at least one specific example from our own work, a client (with approval), or an SME: what was done, what happened, and what it taught.
 - The brief has to supply it. The writer never invents an experience, a client result, or a quote. If the brief has none, flag it before drafting.
 
 ### Date, author, bio
-- Every blog publishes with a named author, the publish date, and a two- to three-sentence bio that says why the author is credible on this topic.
+- Every blog publishes with a named author, the publish date, and a two- to three-sentence bio that says why the author is credible on this topic. These are added at publish.
 - Author bios are maintained centrally and reused. The brief names the author.
 
 ---
@@ -113,7 +115,12 @@ Key Points and the FAQ sit **outside** the requested word count unless the reque
 </script>
 ```
 
-Validate it in Google's Rich Results Test or the Schema.org validator before publishing.
+**What it is:** FAQPage JSON-LD is structured data (Schema.org vocabulary, JSON format, inside a `<script>` tag) that labels the page's FAQ as questions and answers for search engines and AI crawlers. Readers never see it.
+
+**Ownership:**
+- **Writer:** delivers the completed block with the draft, matching the visible FAQ word for word.
+- **Publisher:** pastes it into the page through the CMS custom HTML/header field or SEO plugin (e.g., Yoast, Rank Math) and validates it in Google's Rich Results Test or the Schema.org validator before publishing.
+- **Anyone editing the FAQ after publish** updates the JSON-LD in the same pass so the two stay identical.
 
 ---
 
@@ -125,7 +132,7 @@ Add these rows to the content brief, after "Proposed Structure":
 | :- | :- |
 | Key Points | Three to five draft bullets: bold claim, backing stat, linked source for each |
 | FAQ | Three to six questions, each with where it came from (PAA, AI follow-up, sales call, SME) |
-| Table plan | What the table compares and which section it sits in, or "None: [reason]" |
+| Table plan | "None" by default. Only if the content is genuinely comparative: what the table compares and which section it sits in |
 | First-hand experience | The specific example, story, or SME input, and who supplied it |
 | Author and bio | Named author and the bio to use |
 | Year in title | Yes or no, and why |
@@ -148,7 +155,7 @@ Run after the Editing Checklist in `docs/content-workshop-blog-writer-instructio
 - [ ] No FAQ answer copies a body sentence or points back to the body ("as mentioned above").
 - [ ] FAQPage JSON-LD is attached and matches the visible text word for word.
 - [ ] Year in title, if used, is justified and also appears in the meta title.
-- [ ] At least one HTML table, or a noted reason there isn't one.
+- [ ] If there's a table, the content is genuinely comparative and it's built in HTML. No table is the default.
 - [ ] At least one first-hand example, sourced from the brief.
-- [ ] Author, date, bio, and "Last updated" are in place.
+- [ ] Author, date, and bio are in place (added at publish; "Last updated" is handled by the CMS).
 - [ ] Key Points and FAQ were included in the em dash, contrast-construction, and SKP counts.

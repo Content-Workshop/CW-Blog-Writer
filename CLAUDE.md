@@ -11,7 +11,7 @@ This file must be named exactly `CLAUDE.md` and live in the repo root — Claude
    Newer rules still being confirmed from reviewer feedback rounds. Check this after the main instructions file — it can override or add to it. Dated at the top; always check the date.
 
 3. **`docs/aeo-geo-checklist.md`**
-   Required AEO/GEO structure for every blog and brief (effective November 18, 2026): Key Points, FAQ + FAQPage schema, tables, first-hand experience, freshness, author bio. Run its editor pass last.
+   Required AEO/GEO structure for every blog and brief (effective November 18, 2026): Key Points, FAQ + FAQPage schema, first-hand experience, author bio, and a table only when content is genuinely comparative. Run its editor pass last.
 
 ## Rule
 

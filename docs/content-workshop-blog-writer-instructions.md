@@ -175,7 +175,7 @@ Verify names against the source of record before a piece ships — **this covers
 
 ```
 # [Working Title]
-[Byline · Publish date · Last updated]
+[Byline · Publish date]  ("Last updated" is displayed by the CMS)
 
 ## Key Points
 3–5 standalone bullets: bold one-sentence claim + backing stat with linked source.
@@ -213,7 +213,7 @@ Open with tension, stakes, or a sharp observation. Name the reader's problem cle
 **CTA Direction:**
 **Key Points:**
 **FAQ (with source of each question):**
-**Table Plan:**
+**Table Plan:** (default "None"; only for genuinely comparative content)
 **First-Hand Experience:**
 **Author and Bio:**
 **Year in Title:**
