@@ -13,3 +13,7 @@ This file must be named exactly `CLAUDE.md` and live in the repo root — Claude
 ## Rule
 
 Always load and apply both files above before drafting a blog. If the two files conflict, the addendum wins (it's newer).
+
+## After drafting: QA
+
+Run the **`article-karen`** agent (`.claude/agents/article-karen.md`) on every finished draft, in a fresh context and never in the one that wrote it. Pass it the draft plus intake (length, core keyword, subtopic keyword, pillar page, persona, internal links). It judges against `docs/qa/article-rubric.md` and the two files above, and returns a fix list and a verdict (APPROVED / NEEDS WORK / REJECTED).
