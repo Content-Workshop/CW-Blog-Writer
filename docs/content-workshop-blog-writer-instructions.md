@@ -178,7 +178,7 @@ Verify names against the source of record before a piece ships — **this covers
 [Byline · Publish date]  ("Last updated" is displayed by the CMS)
 
 ## Key Points
-3–5 standalone bullets: bold one-sentence claim + backing stat with the source named (no links).
+3–5 standalone bullets: bold one-sentence claim + backing stat (no source names or links; attribution lives in the body).
 
 ## Introduction
 Open with tension, stakes, or a sharp observation. Name the reader's problem clearly.
