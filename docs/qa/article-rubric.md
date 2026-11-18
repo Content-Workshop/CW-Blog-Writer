@@ -2,7 +2,7 @@
 rubric: article
 stage: "Blog / Pillar Page QA"
 reviewer: article-karen
-version: 4-cw-blog-writer
+version: 5-cw-blog-writer
 appliesTo: blog draft
 ---
 
@@ -14,7 +14,8 @@ There is no overall score.** Each FAIL becomes an item on the fix list for the w
 
 **Where it came from:** adapted from `Content-Workshop/Crius`, `content-engine/docs/rubrics/article-rubric.md`
 (v1, commit `7a4ad1f`). Crius criteria C1–C12 are kept in substance. The Crius pipeline inputs
-(Scout brief, Curator packet, client CIP) are replaced with this repo's intake and editorial docs. C13–C14 are new.
+(Scout brief, Curator packet, client CIP) are replaced with this repo's intake and editorial docs. C13–C14 are new;
+C15–C16 were added in v5 for the addendum's Round 5–6 rules (Nov 12, 2026 update).
 
 **Priority of sources.** This rubric summarizes the two editorial docs, and they are the source of truth:
 1. `docs/content-workshop-editorial-addendum.md`. It is newer and **wins on any conflict**. Check its date.
@@ -31,7 +32,11 @@ and note the gap in the report.
 
 The SEO/AEO numbers in C8–C10 (subtopic keyword 5–8 uses, meta lengths, link counts, ≥4 AEO practices)
 are **house rules** (since v3; v4 makes the external-link domain a preference): they are written in the instructions' *SEO* section and always block.
-- **Watch-list item:** a tell-word or pattern the addendum lists as "flag on use." Report it as **advisory**.
+- **Editor Checklist item:** anything in the addendum's *Editor Checklist* (Passes 1–6) is a **house rule**,
+  including the high-confidence Watch List items it lists ("earn" limit, mirrored pairs, ship/ceiling/argument,
+  silent/quiet, exceptions H2, short intro paragraphs). A miss is a **FAIL**.
+- **Watch-list item not in the Editor Checklist** (e.g. predict→infer, framework naming, fragment series as a
+  list): report it as **advisory**.
 
 **Verdict values**
 - `ESCALATE`: use when the writer flagged a deliberate deviation with a reason, or when you can't
@@ -50,10 +55,15 @@ are **house rules** (since v3; v4 makes the external-link domain a preference): 
   - If a client voice guide was supplied, judge against that instead.
   - In cybersecurity, the draft must never imply that CISOs, CTOs or engineers lack technical
     understanding.
+  - **Point of view holds:** "you" stays "you" inside a section. Content Workshop never speaks as if it
+    works inside the reader's company ("our managers"). If the piece uses CW's own team as an example,
+    each section makes clear whose team is meant.
+  - **No internal shop vocabulary** in reader-facing copy (addendum Rule 12): "reviewer" → "editor";
+    no "ship," "ceiling," "argument," "find-pass," "two-instance bar," "promote," "Watch List."
 - **Pass when:** it reads as Content Workshop (or the supplied client voice), and the persona is
   clearly served.
 - **Fail when:** it reads as generic thought-leader copy, is hype-driven, talks down to a technical
-  reader, or ignores the stated persona.
+  reader, ignores the stated persona, shifts point of view, or uses internal shop vocabulary.
 - **Evidence:** quote lines against the voice and audience rules.
 
 ### C2: Introduction earns attention
@@ -61,7 +71,10 @@ are **house rules** (since v3; v4 makes the external-link domain a preference): 
   angle, a specific problem, a business consequence, a question with real stakes, or a brief scenario.
   None of the banned openers in the *Introductions* section ("In today's digital landscape," "Now more
   than ever," "Let's dive in / delve into / explore," "It's no secret that," etc.).
-- **Fail when:** the piece opens with preamble or a banned opener.
+  - **Intro paragraphs are one or two sentences each**, and an imperative opener gives each instruction
+    its own sentence (Editor Checklist Pass 5).
+- **Fail when:** the piece opens with preamble or a banned opener, or an intro paragraph runs past two
+  sentences.
 - **Evidence:** quote the opening lines.
 
 ### C3: Structure and headings
@@ -73,10 +86,13 @@ are **house rules** (since v3; v4 makes the external-link domain a preference): 
   - **Paragraphs:** mostly 1–3 sentences.
   - **Bullets:** used sparingly. **Any bulleted list of full sentences must be H3 + paragraph pairs
     instead.**
+  - **No H2 devoted to exceptions or counterarguments.** A boundary condition gets one or two sentences
+    inside the relevant section (Editor Checklist Pass 5).
+  - **Advisory:** three or more parallel fragments strung inline may read better as a short list (watch list).
   - **Section count:** fits the target length (800: 3–4 · 1,200: 4–5 · 1,500: 5–6 · 2,000: 6–8 ·
     2,500+: frameworks, examples, pitfalls, implementation).
-- **Fail when:** a heading is vague or audience-blaming, there's a wall-of-text paragraph, or a
-  full-sentence bullet list hasn't been converted.
+- **Fail when:** a heading is vague or audience-blaming, there's a wall-of-text paragraph, a
+  full-sentence bullet list hasn't been converted, or an H2 is devoted to exceptions.
 - **Evidence:** quote the offending heading, paragraph or list.
 
 ### C4: Depth over breadth
@@ -85,26 +101,37 @@ are **house rules** (since v3; v4 makes the external-link domain a preference): 
   consequence, contrast or application.
   - Any sentence that promises a specific count ("three ways…") is followed by an actual list
     (addendum Rule 3).
-  - No restating the previous section as a transition.
+  - **Restatement pass (addendum Rule 9):** name each section's one point, then flag any sentence that
+    repeats a point already made in that section or an earlier one, **including a sentence that restates
+    its own heading**, and slogan-style summary lines. A thesis may be restated once, on purpose, in the
+    conclusion. Look hardest at the middle third.
 - **Fail when:** a section is stated and abandoned, the piece skims too many points, a promised count
-  isn't delivered, or a restatement serves as a transition.
+  isn't delivered, or any restatement survives.
 - **Evidence:** name the section and quote it.
 
 ### C5: Style discipline (required find-pass with counts)
 Count each of these and report the numbers. Don't estimate.
 - **Negative-setup / positive-insertion construction** ("It's not X, it's Y" / "That's a Y problem,
-  not an X problem," in either clause order, including when split across two sentences):
-  **0 in title/headings, at most 1 in body.** List every instance found.
+  not an X problem," in either clause order, including when split across two sentences, **and "instead
+  of X, Y" / "rather than X, Y" when they set up a contrast**): **0 in title/headings, at most 1 in body.**
+  A quoted example used to illustrate the tell doesn't count. List every instance found.
+- **Mirrored role pairs** ("X earns A. Y earns B." — back-to-back sentences that mirror each other's
+  syntax to assign roles): **0**. Swapping the verb doesn't fix it; the mirroring is the tell.
+- **"Earn" in any form:** **at most 1** per piece.
+- **"Isn't just" / "doesn't just":** **at most 1**.
 - **Em dashes:** **at most 3**, and every one **set closed** (`word—word`). Any spaced dash (`word — word`)
   is a FAIL, even if the count is under 3. A spaced en dash or hyphen used as a dash counts as spaced.
 - **Banned clichés:** the *Style Rules* list, including "the distinction matters more than it sounds like
   it should" and close variants. Also look for hedges that announce a point instead of making it.
 - **Mixed metaphors:** none.
 - **Typos/proofing errors:** none.
-- **Advisory:** "silent"/"quiet" used as modifiers (watch list); "predict" where "infer" may fit (watch
-  list, not adopted).
-- **Fail when:** any blocking count is over its ceiling, any dash is spaced, or any cliché or mixed
-  metaphor is present.
+- **A number needs its noun:** a numeral standing in for a noun names it ("three sites," not "three").
+- **Find-and-replace words (Editor Checklist Pass 3), 0 each in reader-facing copy:** "reviewer"
+  (→ editor), "ship/ships/shipped" (→ publish), "ceiling" (→ limit), "argument" (→ message, point, the
+  piece), "silent"/"quiet" as modifiers, "most teams / most marketers get this wrong."
+- **Advisory:** "predict" where "infer" may fit (watch list, not adopted).
+- **Fail when:** any blocking count is over its limit, any dash is spaced, any find-and-replace word
+  survives, a number lacks its noun, or any cliché or mixed metaphor is present.
 - **Evidence:** the counts plus each offending phrase quoted.
 
 ### C6: CTA is earned
@@ -210,6 +237,30 @@ Count each of these and report the numbers. Don't estimate.
 - **ESCALATE** every internal asset name you can't verify from the repo or the supplied material, so
   a human can confirm it against Notion, the wiki or an approved piece. Never assume a name is right.
 - **Evidence:** list each name and its verification status.
+
+### C15: Personality (new, addendum Rule 10)
+- **Check:** at least one moment of humor, irreverence, or a recognizable everyday or pop-culture
+  reference, usually in the first H2 where the problem is set up. Guardrails:
+  - The joke makes the same point as the paragraph it sits in.
+  - It doesn't interrupt a cause-and-effect sequence.
+  - It uses a current reference, not a dated one.
+  - One analogy per idea.
+  - It never comes at the reader's expense, and it doesn't shift point of view (see C1).
+- **Fail when:** the piece has no such moment, or one breaks a guardrail.
+- **Evidence:** quote the moment and where it sits.
+
+### C16: Aphoristic one-liners (new, addendum Rule 11)
+- **Check:** read every short sentence that closes a paragraph or follows a heading. For each one:
+  1. If it restates the paragraph or heading, it should be cut (see C4).
+  2. If it makes the point through an abstraction or an image the reader has to decode, it should be
+     rewritten as a plain statement of who does what, naming the people and the action.
+  3. If nothing concrete sits underneath, it should be cut.
+  - **At most 1 deliberate punchline per piece**, and only where it carries a real claim.
+  - Also cut throat-clearing: sentences that announce a point is coming instead of making it.
+- **Fail when:** more than one punchline survives, or any surviving one is abstract, decorative or a
+  restatement.
+- **Evidence:** list each candidate with your call (keep / rewrite / cut). Give a plain rewrite for each
+  one to change.
 
 ---
 
