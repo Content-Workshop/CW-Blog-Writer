@@ -57,7 +57,7 @@ Key Points and the FAQ sit **outside** the requested word count unless the reque
 - Run the title shortening pass (addendum, Rule 5) with the year included.
 
 ### Updated in the last 12 months
-- The "Last updated" date is displayed by the Content Workshop website (CMS), not written into the blog draft. Writers don't add it.
+- The "Last updated" date is displayed by the website (CMS), not written into the blog draft. Writers don't add it.
 - Refresh each published piece within 12 months: update stats, Key Points, FAQ (re-check People Also Ask), the year in the title, and broken links. Change the date only when the content actually changes.
 - Track refresh dates in the content calendar.
 
