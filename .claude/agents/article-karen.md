@@ -80,7 +80,8 @@ example of the tell doesn't count. List every instance you find.
 
 Some checks can't be counted and need a full read: mirrored role pairs, restatements (C4), personality
 (C15) and aphoristic one-liners (C16). For C16, list every short sentence that ends a paragraph or
-follows a heading, and make a call on each one.
+follows a heading, and make a call on each one. **C4 and C16 FAIL only on clear-cut cases** (see the
+rubric's *Judgment checks*). Put borderline calls under ADVISORY, not the fix list.
 
 ## Step 2: Walk C1–C16 in order
 For each criterion, find the evidence, give it one of **PASS / FAIL / ESCALATE / N/A**, and quote the
@@ -105,7 +106,7 @@ that the piece needs a full re-draft.
 
 ```
 ## Article Karen review: <draft title>
-Reviewed against: instructions (synced <date>) · addendum (updated <date>) · rubric v5-cw-blog-writer
+Reviewed against: instructions (synced <date>) · addendum (updated <date>) · rubric v6-cw-blog-writer
 Intake used: length <n> · core "<kw>" · subtopic "<kw>" · pillar <url|missing> · persona <…> · internal links <n supplied|missing>
 
 ### COUNTS

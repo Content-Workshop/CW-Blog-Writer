@@ -2,7 +2,7 @@
 rubric: article
 stage: "Blog / Pillar Page QA"
 reviewer: article-karen
-version: 5-cw-blog-writer
+version: 6-cw-blog-writer
 appliesTo: blog draft
 ---
 
@@ -37,6 +37,17 @@ are **house rules** (since v3; v4 makes the external-link domain a preference): 
   silent/quiet, exceptions H2, short intro paragraphs). A miss is a **FAIL**.
 - **Watch-list item not in the Editor Checklist** (e.g. predict→infer, framework naming, fragment series as a
   list): report it as **advisory**.
+
+**Judgment checks: clear-cut only (C4 restatements, C16 one-liners).** These two checks can't be counted,
+so a fresh reviewer will always find new borderline candidates. A **FAIL** needs a clear-cut case:
+- a sentence that repeats its own heading, or a point already made earlier, in close to the same words;
+- a slogan or aphorism with no actor (nobody does anything in it);
+- a standalone throat-clearing sentence that only announces a point.
+
+Everything else (partial overlaps, lines that could be tighter, defensible stylistic choices) goes under
+**ADVISORY** as a suggestion and does not block. When in doubt, it's advisory. **The countable checks are
+unchanged and still block:** negative-setup, mirrored pairs, "earn," banned words, em dashes, keyword and
+link counts, intro paragraph length.
 
 **Verdict values**
 - `ESCALATE`: use when the writer flagged a deliberate deviation with a reason, or when you can't
@@ -106,7 +117,8 @@ are **house rules** (since v3; v4 makes the external-link domain a preference): 
     its own heading**, and slogan-style summary lines. A thesis may be restated once, on purpose, in the
     conclusion. Look hardest at the middle third.
 - **Fail when:** a section is stated and abandoned, the piece skims too many points, a promised count
-  isn't delivered, or any restatement survives.
+  isn't delivered, or a **clear-cut** restatement survives (see *Judgment checks*). Partial overlaps go
+  under ADVISORY.
 - **Evidence:** name the section and quote it.
 
 ### C5: Style discipline (required find-pass with counts)
@@ -257,8 +269,9 @@ Count each of these and report the numbers. Don't estimate.
   3. If nothing concrete sits underneath, it should be cut.
   - **At most 1 deliberate punchline per piece**, and only where it carries a real claim.
   - Also cut throat-clearing: sentences that announce a point is coming instead of making it.
-- **Fail when:** more than one punchline survives, or any surviving one is abstract, decorative or a
-  restatement.
+- **Fail when:** more than one punchline survives, or a **clear-cut** case survives: a slogan with no
+  actor, a line that repeats its heading or an earlier point in close to the same words, or a standalone
+  throat-clearing sentence (see *Judgment checks*). Lines that are merely tightenable go under ADVISORY.
 - **Evidence:** list each candidate with your call (keep / rewrite / cut). Give a plain rewrite for each
   one to change.
 
