@@ -1,6 +1,6 @@
 # Content Workshop Editorial Standards — Addendum
 
-**Last updated: November 19, 2026** (file-name and sync-status fix only; rule content is as of November 12, 2026)
+**Last updated: November 12, 2026**
 
 **Source:** Patterns extracted from reviewer feedback (JB Clark, David Ebner, Christina Rowell, Susan Ishmael) across six rounds:
 - **Round 1** — "AI, GEO, and Trust Are Rewriting 2026 Marketing Playbooks," August 2026
