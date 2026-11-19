@@ -1,6 +1,6 @@
 # Content Workshop Editorial Standards — Addendum
 
-**Last updated: November 12, 2026**
+**Last updated: November 19, 2026** (file-name and sync-status fix only; rule content is as of November 12, 2026)
 
 **Source:** Patterns extracted from reviewer feedback (JB Clark, David Ebner, Christina Rowell, Susan Ishmael) across six rounds:
 - **Round 1** — "AI, GEO, and Trust Are Rewriting 2026 Marketing Playbooks," August 2026
@@ -10,7 +10,7 @@
 - **Round 5** — "AI Positioning Has a Headline Problem" (AI positioning blog, Draft 1), November 9, 2026
 - **Round 6** — "AI Content Editing That Keeps the Tells Out" (AI content editing blog, Draft 1), November 12, 2026
 
-**How to use this:** These continue the style guidance in the Content Workshop Blog Writer project instructions (`Content_Workshop_Writer_Agent.md`). Each rule cites the specific reviewer feedback it came from, so a future editor — human or AI — can see *why* the rule exists, not just what it says. Rules that hold up across two or more independent pieces get folded into the main instructions file under the relevant section; until then, they live here. **This file is dated at the top on every update** so anyone consulting it — including a new AI assistant with no memory of prior rounds — knows how current the guidance is. **Editors (internal or contractor) who need the short version should use the Editor Checklist directly below**; everything after it is the sourcing.
+**How to use this:** These continue the style guidance in the Content Workshop Blog Writer project instructions (`docs/content-workshop-blog-writer-instructions.md`). Each rule cites the specific reviewer feedback it came from, so a future editor — human or AI — can see *why* the rule exists, not just what it says. Rules that hold up across two or more independent pieces get folded into the main instructions file under the relevant section; until then, they live here. **This file is dated at the top on every update** so anyone consulting it — including a new AI assistant with no memory of prior rounds — knows how current the guidance is. **Editors (internal or contractor) who need the short version should use the Editor Checklist directly below**; everything after it is the sourcing.
 
 **Caveat:** Round 1 was a single review, one piece — a few of its rules were promoted immediately anyway because they were countable mechanical or factual checks, not taste calls. Rounds 2–6 add five more pieces. Round 4 drew comments from JB Clark and David Ebner; Round 5 drew four margin comments and roughly twenty tracked changes from JB Clark only; Round 6 drew ten margin comments and about eight tracked changes from Susan Ishmael, a new reviewer. (The Drive export doesn't show who made the Round 6 tracked changes. They line up with Susan's comments, so this file attributes them to her.) **The two-instance bar**: a subjective or stylistic note needs to recur independently in two or more pieces (or two or more rounds) before it hardens into a rule. A factual or mechanical note — spelling, a broken structure, an explicit "hardcode this" instruction from a reviewer, a terminology decision — can promote on one instance. A new reviewer flagging a pattern an earlier reviewer already flagged counts as strong independent confirmation, because she had not seen the earlier notes.
 
@@ -319,7 +319,7 @@ Unchanged this round, except as noted:
 - **Run a restatement pass alongside the count passes.** *(Round 5.)* Rule 9 can't be checked by counting, so pair it with the find-passes: one pass for countable ceilings, one pass for repeated points. *(Round 6: add the aphorism read from Rule 11 to the same pass. Both look at the same sentences, the short ones at paragraph ends and right after headings.)*
 - **The checklist is the editor-facing version of this file.** [NEW, ROUND 6] Every time a rule is added, promoted, or amended here, update the Editor Checklist in the same edit so the two don't drift. The checklist should stay usable by a contractor with no context, so no sourcing and no internal shorthand.
 - **This addendum states its own update date for a reason.** *(Round 3 — unchanged.)* Every future update should keep the "Last updated" line current.
-- **This addendum, not the main instructions file, is where new-round patterns land first.** *(Round 1 principle.)* Rules 1–7 and 9–12 are stable enough to move into `Content_Workshop_Writer_Agent.md` now; Rule 4 in particular should **replace** the existing "Avoid repeated sentence structures" language rather than sit alongside it. Rule 8 (framework naming) stays here until it clears the two-instance bar.
+- **This addendum, not the main instructions file, is where new-round patterns land first.** *(Round 1 principle.)* Rules 1–7 and 9–12 were folded into `docs/content-workshop-blog-writer-instructions.md` on November 19, 2026; Rule 4 replaced the earlier "Avoid repeated sentence structures" language there. Rule 8 (framework naming) stays here until it clears the two-instance bar.
 
 ---
 
