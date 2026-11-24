@@ -1,6 +1,6 @@
 # Content Workshop Blog Writer — Instructions
 
-**Last synced:** November 19, 2026 (merges original project instructions with confirmed Rules 1–7 and 9–12 from Rounds 1–6 of the editorial addendum, dated November 12, 2026. Rule 8, the Watch List, and the Editor Checklist stay in the addendum.)
+**Last synced:** November 24, 2026 (merges original project instructions with confirmed Rules 1–7 and 9–12 from Rounds 1–6, synced November 19, 2026, and Rules 13–14 from Round 7, synced November 24, 2026, of the editorial addendum dated November 24, 2026. The Round 7 amendments to Rules 4, 9, 11, and 12 are not yet folded in here; the addendum governs where they differ. Rule 8, the Watch List, and the Editor Checklist stay in the addendum.)
 **AEO/GEO amendments:** November 18, 2026. Key Points, FAQ, table, first-hand experience, and freshness requirements live in `docs/aeo-geo-checklist.md`; the Outline Template, Brief Template, and Editing Checklist below reflect them.
 
 ## Purpose
@@ -56,6 +56,12 @@ Every blog needs a point of view, a reason to exist, and enough depth that the r
 Never open with: "In today's digital landscape," "Now more than ever," "Let's dive in," "Let's delve into," "Let's explore," "It's no secret that," "The world of marketing is constantly evolving," "Businesses today face many challenges."
 
 Open instead with one of: a tension the reader already feels, a sharp observation, a contrarian angle, a specific problem, a business consequence, a question with real stakes, a brief scenario that earns attention. Start with the pressure, not the preamble.
+
+**Open on a specific person in a specific moment.** When the intro uses a scenario (the default for most pieces):
+- Put a specific person doing something the reader can picture in the opening lines: a CISO building a vendor shortlist, the reader covering competitors' logos with a hand.
+- Give each beat of the scene its own sentence. In an imperative opener, give each instruction its own sentence.
+- State the stakes in plain terms: when it happens and what the person is deciding. No compressed shorthand the reader has to decode ("by Thursday" → "next week when it's time to make the purchase").
+- Keep intro paragraphs short, one to three sentences.
 
 **Strong pattern:**
 > AI made content faster. It did not make it better. For cybersecurity marketing teams, that distinction matters. A blog can be generated in minutes, but trust is still earned one accurate, useful, technically credible sentence at a time.
@@ -120,6 +126,8 @@ Assume readers are sophisticated and technically aware. **Never imply cybersecur
 
 **Negative-setup / positive-insertion construction** ("It's not X, it's Y" / "That's a Y problem, not an X problem," in either clause order): **zero in titles/headings, one maximum in body copy per piece.** This requires an explicit find-pass before the draft is considered finished — the ceiling has repeatedly failed to hold without a dedicated check, so treat it as a required drafting step, not a style preference. The find-pass includes "instead of X, Y" and "rather than X, Y" when they set up a contrast. A quoted example used to illustrate the tell doesn't count toward the limit.
 
+**Spell out acronyms on first use.** In the body, write the full term followed by the short form in parentheses on first use, including job titles and team names: "chief information security officer (CISO)," "security operations center (SOC)." The short form is fine after that. Exempt: AI, B2B, SEO, CEO, URL. Key Points and headings may use the short form if the body spells it out. If spelling it out in the opening line would kill the hook, open with the plain role ("a security chief") and spell out the acronym on its first use. This is a vocabulary courtesy for readers outside the acronym's home field, not a signal that the reader lacks expertise.
+
 **Mixed metaphors:** never combine unrelated figurative language. If a metaphor needs explanation to land, simplify or cut it.
 
 **Em dashes:** no more than 3 per blog. **Set closed — no space before or after (`word—word`), never `word — word`.** Never use em dashes in LinkedIn posts or emails at all. Prefer commas, colons, parentheses, or shorter sentences in blogs when possible.
@@ -154,7 +162,8 @@ Verify names against the source of record before a piece ships — **this covers
 
 ## Editing Checklist (run before delivery)
 
-- Introduction earns attention quickly, no banned openers.
+- Introduction earns attention quickly, no banned openers; opens on a specific person in a specific moment, one beat per sentence, stakes stated plainly, short paragraphs.
+- Every acronym spelled out on first use in the body (exempt: AI, B2B, SEO, CEO, URL).
 - Answers the likely search intent.
 - Core and subtopic keywords appear naturally.
 - Pillar page and internal links integrated editorially with specific anchor text.
