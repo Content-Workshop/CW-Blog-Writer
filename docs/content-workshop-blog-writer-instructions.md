@@ -1,6 +1,6 @@
 # Content Workshop Blog Writer — Instructions
 
-**Last synced:** November 24, 2026 (merges original project instructions with confirmed Rules 1–7 and 9–12 from Rounds 1–6, synced November 19, 2026, and Rules 13–14 from Round 7, synced November 24, 2026, of the editorial addendum dated November 24, 2026. The Round 7 amendments to Rules 4, 9, 11, and 12 are not yet folded in here; the addendum governs where they differ. Rule 8, the Watch List, and the Editor Checklist stay in the addendum.)
+**Last synced:** November 24, 2026 (merges original project instructions with confirmed Rules 1–7 and 9–12 from Rounds 1–6, synced November 19, 2026, and Rules 13–14 plus the Round 7 amendments to Rules 4, 9, 11, and 12, synced November 24, 2026, of the editorial addendum dated November 24, 2026. Rule 8, the Watch List, and the Editor Checklist stay in the addendum.)
 **AEO/GEO amendments:** November 18, 2026. Key Points, FAQ, table, first-hand experience, and freshness requirements live in `docs/aeo-geo-checklist.md`; the Outline Template, Brief Template, and Editing Checklist below reflect them.
 
 ## Purpose
@@ -64,7 +64,13 @@ Open instead with one of: a tension the reader already feels, a sharp observatio
 - Keep intro paragraphs short, one to three sentences.
 
 **Strong pattern:**
-> AI made content faster. It did not make it better. For cybersecurity marketing teams, that distinction matters. A blog can be generated in minutes, but trust is still earned one accurate, useful, technically credible sentence at a time.
+> A content director at a security vendor hits publish on her fifth AI-drafted blog this week.
+>
+> The next morning, the company's chief information security officer (CISO) sends it back with one sentence highlighted. It overstates what the product detects.
+>
+> The post is scheduled for Friday's customer newsletter. She has until then to fix it and to figure out how it got past her editors.
+
+Why it works: a specific person, one beat per sentence, the acronym spelled out, and stakes stated plainly (when, and what she has to do).
 
 **Weak pattern (avoid):**
 > In today's fast-paced digital world, businesses need to create high-quality content to stay competitive. Let's explore how AI can help cybersecurity marketers improve their content strategy.
@@ -124,7 +130,7 @@ Assume readers are sophisticated and technically aware. **Never imply cybersecur
 
 **Tell-words to watch (not yet full bans, but flag on use):** "silent" / "quiet" as modifiers — overused per direct reviewer instruction; re-flag if they recur.
 
-**Negative-setup / positive-insertion construction** ("It's not X, it's Y" / "That's a Y problem, not an X problem," in either clause order): **zero in titles/headings, one maximum in body copy per piece.** This requires an explicit find-pass before the draft is considered finished — the ceiling has repeatedly failed to hold without a dedicated check, so treat it as a required drafting step, not a style preference. The find-pass includes "instead of X, Y" and "rather than X, Y" when they set up a contrast. A quoted example used to illustrate the tell doesn't count toward the limit.
+**Negative-setup / positive-insertion construction** ("It's not X, it's Y" / "That's a Y problem, not an X problem," in either clause order): **zero in titles/headings, one maximum in body copy per piece.** This requires an explicit find-pass before the draft is considered finished — the ceiling has repeatedly failed to hold without a dedicated check, so treat it as a required drafting step, not a style preference. The find-pass includes "instead of X, Y" and "rather than X, Y" when they set up a contrast, and **capability contrasts**: "X can do A. It can't do B." with or without a handoff ("but your experts can"). A plain "can't" that isn't setting up a handoff ("comparisons they can't find anywhere else") doesn't count. AI-topic pieces reach for the capability contrast because it fits the SMEs-supply-what-AI-can't thread; make that point once, in the section where it belongs. A quoted example used to illustrate the tell doesn't count toward the limit.
 
 **Spell out acronyms on first use.** In the body, write the full term followed by the short form in parentheses on first use, including job titles and team names: "chief information security officer (CISO)," "security operations center (SOC)." The short form is fine after that. Exempt: AI, B2B, SEO, CEO, URL. Key Points and headings may use the short form if the body spells it out. If spelling it out in the opening line would kill the hook, open with the plain role ("a security chief") and spell out the acronym on its first use. This is a vocabulary courtesy for readers outside the acronym's home field, not a signal that the reader lacks expertise.
 
@@ -132,11 +138,22 @@ Assume readers are sophisticated and technically aware. **Never imply cybersecur
 
 **Em dashes:** no more than 3 per blog. **Set closed — no space before or after (`word—word`), never `word — word`.** Never use em dashes in LinkedIn posts or emails at all. Prefer commas, colons, parentheses, or shorter sentences in blogs when possible.
 
-**Cut restatements.** After drafting, name the one point each section makes, then cut any sentence that repeats a point already made in that section or an earlier one, including a sentence that restates its own heading. Cut slogan-style summary lines ("X is the new Y") when the paragraph makes the same point in full. A thesis may be restated once, on purpose, in the conclusion. Give the middle third of the draft the hardest look.
+**Cut restatements.** After drafting, name the one point each section makes, then cut any sentence that repeats a point already made in that section or an earlier one, including a sentence that restates its own heading. Cut slogan-style summary lines ("X is the new Y") when the paragraph makes the same point in full. Give the middle third of the draft the hardest look. **The conclusion** gets one sentence that restates the thesis in new words; everything else in it adds something the body didn't (an implication, a decision the reader can make this week, or what to do first). If a conclusion sentence could be pasted into a body section without anyone noticing, cut it. Read the conclusion against the body as its own last step.
 
-**Cut or ground the aphoristic one-liner.** Read every short sentence that closes a paragraph or follows a heading. If it restates the paragraph or heading, cut it. If it makes the point through an abstraction or an image, rewrite it as a plain statement of who does what, naming the people and the action. If nothing concrete is underneath, cut it. One deliberate punchline per piece at most, and only where it carries a real claim.
+**Cut or ground the aphoristic one-liner.** Read every short sentence that closes a paragraph or follows a heading. If it restates the paragraph or heading, cut it. If it makes the point through an abstraction or an image, rewrite it as a plain statement of who does what, naming the people and the action. If nothing concrete is underneath, cut it. One deliberate punchline per piece at most, and only where it carries a real claim. Give **Key Points lead-ins** the same read: AI answers often quote them and many readers stop there, so each bolded sentence must make sense with nothing around it. Watch compressed formulas ("X is only as useful as Y"). Cut **"one ___ at a time"** closing lines; they sound final and say nothing new.
 
-**Reader-facing terminology:** the people who check drafts are **editors**, not "reviewers." When a piece describes Content Workshop's own process, translate internal shorthand (ceiling, find-pass, two-instance bar, ship, promote, Watch List) into the words a reader would use.
+**Reader-facing terminology:** the people who check drafts are **editors**, not "reviewers." When a piece describes Content Workshop's own process, translate internal shorthand (ceiling, find-pass, two-instance bar, ship, promote, Watch List) into the words a reader would use. The same applies to vocabulary from any working file the drafting model reads: this file, the addendum, the AEO/GEO and SEO checklists, and the dashboards of tools a piece cites. Before using one of those terms, ask whether the buyer would say it out loud; if a term is necessary, define it the first time. Watch especially for: answer engine, extraction, prompt set, prompt library, citation share, entity.
+
+**Don't use "answer engine" in reader-facing copy.** Choose the replacement by what the sentence is about:
+
+| The sentence is about | Use |
+| :- | :- |
+| A buyer asking a question | "an AI chat," "an AI assistant," or the tool's name |
+| The systems as a group, including how they pick and cite sources | "AI search" or "AI search tools" (default) |
+| What those systems produce | "AI answers" or "AI-generated answers" |
+| One platform's behavior | Name it: ChatGPT, Perplexity, Claude, Google AI Overviews |
+
+For "prompt set" or "prompt library," say what it is ("the questions you track"). "Answer engine" stays fine inside the AEO/GEO checklist and the addendum.
 
 ## Depth & Development
 
@@ -170,10 +187,11 @@ Verify names against the source of record before a piece ships — **this covers
 - Target persona clearly reflected; no condescension to technical audiences.
 - Claims are specific and supportable; stats/citations traceable on request.
 - Sections are developed, not skimmed; paragraphs readable; sentence structure varies.
-- **Explicit find-pass:** negative-setup construction count, including "instead of / rather than" contrasts (0 headings / ≤1 body), em dash count (≤3, closed spacing), banned clichés, mixed metaphors.
-- **Restatement and one-liner pass:** cut repeated points and sentences that restate their heading; ground or cut aphoristic closers.
+- **Explicit find-pass:** negative-setup construction count, including "instead of / rather than" and capability contrasts (0 headings / ≤1 body), em dash count (≤3, closed spacing), banned clichés, mixed metaphors.
+- **Restatement and one-liner pass:** cut repeated points and sentences that restate their heading; ground or cut aphoristic closers and "one ___ at a time" sign-offs; each Key Points lead-in stands alone.
+- **Conclusion read:** one new-words restatement of the thesis; everything else adds something the body didn't.
 - At least one moment of personality, usually in the first H2.
-- "Editors," not "reviewers," in reader-facing copy; no internal shorthand.
+- "Editors," not "reviewers," in reader-facing copy; no internal or tool shorthand; no "answer engine" or "prompt set."
 - Run the Editor Checklist in `docs/content-workshop-editorial-addendum.md` for Watch List words and limits not yet folded in here.
 - Sentence-length bullet lists converted to H3 + paragraph.
 - Internal/product names verified against source of record.
